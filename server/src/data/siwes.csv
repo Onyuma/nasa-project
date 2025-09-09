@@ -1,0 +1,385 @@
+s_no,matricNumber,fullName,gender,major,state,lga,email,phoneNumber,address,nokFullName,nokPhoneNumber
+1,U13CS1042,"BASHIR, AKEEM OLAMILEKAN",Male,B.Sc Computer Science,Kwara,Offa,leoxben@gmail.com,8136674787,Back of General Hospital Suleja Niger State,Mrs Adenike Olabode,8057874069
+2,U16CS1132,"OPARA, JOHN-PAUL CHIEBUKA",Male,B.Sc Computer Science,Imo,Owerri North,jaypee.jags14@gmail.com,8146828034,hayin kabama anguwa fulani palladan zaria,mrs beatrice opara,8034530432
+3,U17CS1009,"MUHAMMAD, ABUBAKAR",Male,B.Sc Computer Science,Katsina,Funtua,primesadiq@gmail.com,7066847012,"No 48 Layin Transformer H/Dogo Samaru, Zaria",Abdulrashid Muhammad,8036330934
+4,U17CS1050,"ABUBAKAR, ABBA",Male,B.Sc Computer Science,Kebbi,Birnin-Kebbi,abbaabubakar97gmail.com,7067589401,"Rafin Atiku, Birnin Kebbi, Kebbi State",Rukayya Usman,8038290182
+5,U18CS1012,"BUKAR, FAISAL ABDULMUMIN",Male,B.Sc Computer Science,Nasarawa,Toto,bukarfaisal@gmail.com,8144910862,Kubwa. Abuja,Dr Bukar Abdulmumin,8036009574
+6,U18CS1033,"HAMZA, SADIK MUHAMMAD",Male,B.Sc Computer Science,Yobe,Nguru,sadikhamza4901999@gmail.com,7038823612,MISTA'ALI ZARIA ROAD BASSA PLATEAU STATE,HAMZA MUHAMMAD,8035046844
+7,U18CS1038,"ADAMU, MUBARAK ALIYU",Male,B.Sc Computer Science,Katsina,Funtua,mubarakadamu993@yahoo.com,7038659576,no 10 manman yola road hayin dogo samaru zaria,muktar adamu aliyu,8132213800
+8,U18CS1053,"OLATUNBOSUN, RUFUS",Male,B.Sc Computer Science,Ekiti,Ekiti-East,rufusolatunbosun03@yahoo.com,8148035610,f18 jos road kaduna,comfort olatunbosun,8172431665
+9,U18CS1059,"YUNUS, ADEBAYO SODIQ",Male,B.Sc Computer Science,Kwara,Ilorin West,sodeeqadebayo7@gmail.com,8139745830,"No 1, Dongari Compound Adeta, Ilorin, Kwara State.",Yusus Abolore,8033804503
+10,U18CS1072,"SALISU, ALMUSTAFA MUSA",Male,B.Sc Computer Science,Kaduna,Lere,almustafasalisudankani@gmail.com,7038462949,Yango street Saminaka,Sis Zara,7038462949
+11,U18CS1075,"SOLOMON, ALHASSAN MELAH",Male,B.Sc Computer Science,Gombe,Billiri,kingsolomonmelah@gmail.com,9083185468,"Investment Quarters, Tumfure, Gombe",Mrs Yuwana Melah,8035992928
+12,U18CS1091,"ABUBAKAR, MUHAMMAD SALIS",Male,B.Sc Computer Science,Plateau,Bokkos,dragneelmuhammad@gmail.com,7034419256,"No 2 kwaru badarawa road malali kaduna north, kaduna state.",Farida Abubakar kumla,7060650904
+13,U18CS1105,"BABAJI, KHALIFA ABUBAKAR",Male,B.Sc Computer Science,Kano,Doguwa,abubakarkhalifababaji@gmail.com,7034858584,no.10 brigadier road kurmin mashi kaduna,attahir babaji,8038964517
+14,U18CS1115,"AHMAD, TAHIR",Male,B.Sc Computer Science,Kaduna,Kaduna North,thenny.am@gmail.com,8065008500,NO 9 COURT ROAD U/DOSA KADUNA,SULAIMAN AHMAD,7068884346
+15,U18CS1136,"YUSUF, ABDULLAHI",Male,B.Sc Computer Science,Kaduna,Sabon Gari,Yusufabdul393@gmail.com,8062877427,Babban titi muchia sabon gari,Yusuf Abdullahi,0803 613 9240
+16,U18CS1143,"DAVID, OJONUGWA NAOMI",Female,B.Sc Computer Science,Kogi,Ofu,davidojonugwa95@gmail.com,8176044635,"Back of Timber Shade, Kwamba Suleja Niger State.",Mark David,9057334148
+17,U18CS1153,"BUBA, SADIQ MUHAMMAD",Male,B.Sc Computer Science,Adamawa,Mayo Belwa,Bubasadiq2@gmail.com,7063524347,"YP.30 Abubakar Mai Wada Road, Sabon Gari, Kaduna.",Faisal Buba,8179589960
+18,U18CS2005,"ABUBAKAR, UMAR",Male,B.Sc Computer Science,Kano,Karaye,umargmk1@gmail.com,8133030350,"No 25 Yoruba Road, Kabala West, Kaduna",Amira Abubakar,8068687106
+19,U18CS2036,"JOSEPH, SIMON",Male,B.Sc Computer Science,Kaduna,Zango-Kataf,simonjoseph261@gmail.com,7032952146,no.20b quarter 2 ABU quaters Samaru zaria kaduna.,John Agbo,7036408498
+20,U18CS2042,"BALA, ABDULKARIM IBRAHIM",Male,B.Sc Computer Science,Adamawa,Fufore,BENZENO009@GMAIL.COM,8166039883,AR.4.NEW BIDA RD. TUDUN-NUPAWA-KADUNA,BALA I.MAIKARFI,8023636634
+21,U18CS2053,"ABBA, ABUBAKAR IBRAHIM",Male,B.Sc Computer Science,Jigawa,Kiyawa,abubakarabbaibrahim037@gmail.com,8037360655,No HH 14 College Road Unguwan Dosa Kaduna,Abdullahi Abubakar,8079646767
+22,U18CS2055,"SANUSI, ADAMU",Male,B.Sc Computer Science,Katsina,Sandamu,askatsayal@gmail.com,7012091966,k|yamma katsayal,BABANGIDA SANUSI,7065655363
+23,U18CS2068,"AHAIWE, PRINCE CALEB",Male,B.Sc Computer Science,Imo,Aboh-Mbaise,rkennywhite001@gmail.com,8139720425,Opposite State Specialist Hospital Ibb Way,Peace .O. Ahaiwe,7031097631
+24,U18CS2102,"SALEH, SAFIYA",Female,B.Sc Computer Science,Kano,Takai,salesafiya@gmail.com,9069200993,U 11 Dogonbauchi Sabon Gari,Ahmed Said,8032135784
+25,U19CS1002,"HAROON, KAMAL",Male,B.Sc Computer Science,Kaduna,Lere,kamalharoon19@gmail.com,8187398804,Unity estate Karu Abuja,Haroon Umar,8100668989
+26,U19CS1003,"YAHAYA, ABDULRAUF",Male,B.Sc Computer Science,Kogi,Okene,yabdulrauf911@gmail.com,7040288911,Opp mopol barack dei-dei abuja.,Muhammad Yusuf,8036781179
+27,U19CS1005,"MAIKAI, AMBROSE YOHANNA",Male,B.Sc Computer Science,Kaduna,Jema'a,babamaikai@gmail.com,9124744514,27 CAAS Mando Road Kaduna,Maikai Victor,8028472629
+28,U19CS1006,"ISAH, SULEIMAN",Male,B.Sc Computer Science,Jigawa,Kaugama,isah9277@gmail.com,8120733269,NO 37 NAFADA ROAD KUBWA ABUJA,SULEIMAN AHMED,8033491611
+29,U19CS1007,"MURTALA, Sherif",Male,B.Sc Computer Science,Kaduna,Kaduna North,Sherifmaf1@gmail.com,8135863300,Fishpond Asalamualaikum mando,Aishat Murtala,7065951655
+30,U19CS1008,"RUDOLF, REBECCA SOHANUNGTI",Female,B.Sc Computer Science,Adamawa,Lamurde,rudolfrebecca@yahoo.com,9063274592,Road 5 block 35 apartment 10 navy town ojo lagos,RUDOLF GRACE,7063686196
+31,U19CS1010,"ABDULAZIZ, ABUBAKAR",Male,B.Sc Computer Science,Katsina,Funtua,abubakarabdulazizfta@gmail.com,7069332065,magajin makera funtua katsina state,Nuraddeen abdulaziz,8069477873
+32,U19CS1012,"MOHAMMED, ALIYU",Male,B.Sc Computer Science,Nasarawa,Keana,mohammedaliyu725@gmail.com,8187382479,No 2 Faith Close Mando Kaduna,Mohammed Isa,8065483377
+33,U19CS1013,"AHMED, MARZIA",Female,B.Sc Computer Science,Kebbi,Zuru,marziaa82@gmail.com,8141908297,"A3 SIERRA LOENE AVENUE, MALALI KADUNA",NAZIRA AHMED,8036052485
+34,U19CS1014,"MUHAMMAD, ABUBAKAR GIDADO",Male,B.Sc Computer Science,Gombe,Gombe,Muhdabubakar04@gmail.com,8066691553,No33 dikko road Kaduna,Abubakar gidado,8036914575
+35,U19CS1015,"ISAH, BALA ISAH",Male,B.Sc Computer Science,Gombe,Shomgom,isahbalaatcr7@gmail.com,8082003437,10 lodge road Kano,Bala Garba,8103846005
+36,U19CS1017,"BALA, DAVID GWAZASHIM",Male,B.Sc Computer Science,Kaduna,Zango-Kataf,baladavidayo@gmail.com,8092617779,"No 6a, Raimi street, Ojo, Lagos.",Mr Bala Ibrahim,8033231695
+37,U19CS1018,"ZAKARI, SAADATU",Female,B.Sc Computer Science,Jigawa,Guri,saadatu99999@gmail.com,8129215800,No 4 Kofan Doka Roundabout Zaria.,Safinatu Zakari,8035347200
+38,U19CS1019,"ARZIKA, NURA",Male,B.Sc Computer Science,Sokoto,Dange-Shuni,Nuraarzika754@gmail.com,8167015408,Pu3 igabi road tudun wada Kaduna,Rahmatu rilwan,8036350887
+39,U19CS1020,"KYOM, JONATHAN",Male,B.Sc Computer Science,Kaduna,Kachia,jjax360@gmail.com,9025858248,no.24 botswana cresent barnawa kaduna,tirrnom,9025858248
+40,U19CS1022,"ABDULAZIZ, MUNIRAT BASHIR",Female,B.Sc Computer Science,Oyo,Ogbomoso-North,muneerahbashir8@gmail.com,8022987746,"NO. 51, MSHELIA STREET, MANDO KADUNA",BASHIR ABDULAZIZ,8033496913
+41,U19CS1024,"MUSTAPHA, BASHIR",Male,B.Sc Computer Science,Kebbi,Zuru,bigbash.ym@gmail.com,8166285215,NO 4 ALIYU MAMMAN STREET OLD PRISON LAYOUT MANDO KADUNA,MUHAMMAD MUSTAPHA,7039197962
+42,U19CS1025,"HARUNA, TANKO AMEENAT",Female,B.Sc Computer Science,Niger,Kontagora,Harunaameenat85@gmail.com,8075873059,"Block C19 flat2 kontagora Estate, gwagwalada Abuja",Zainab Haruna Tanko,8153409270
+43,U19CS1028,"AZEEZ, BASHIRAT MORADEKE",Female,B.Sc Computer Science,Oyo,Egbeda,azeezbashirat123@gmail.com,8117217608,"4 moto, akingbade street new gbagi ibadan",azeez adepeju,8165984397
+44,U19CS1029,"BENEDICT, HANANEEL ADAEZE",Female,B.Sc Computer Science,Imo,Ngor-Okpala,adaeze1207@gmail.com,8145287999,"Unguwar Shado Bye-pass, near FRSC Headquarters, Gusau. Zamfara State.",Dr. Benedict Chukwuka  Edeji,8083499900
+45,U19CS1030,"DANIEL, NEHEMIAH TABSON",Male,B.Sc Computer Science,Kaduna,Kaura,iamtabson@gmail.com,9161638743,"6th House Behind Federal Science and Technical College, Kafanchan",Godwin Daniel,8068586867
+46,U19CS1031,"ADESINA, ISLAM OLUWATOSIN",Male,B.Sc Computer Science,Oyo,Saki West,adelamtosin@gmail.com,9150827740,"79, olomi ibadan, oyo state",adesina mukaila,8078111080
+47,U19CS1032,"ABDURRAHIM, DAUDA ISMAIL",Male,B.Sc Computer Science,Plateau,Wase,abdurrahimismail504@gmail.com,8162864282,No.10/12 C-Close off second avenue federal lowcost,Fatima D ismail,8035998828
+48,U19CS1035,"OMOLARA, ADEBAYO WAHAB",Male,B.Sc Computer Science,Oyo,Olorunsogo,omolaraadebayo0101@gmail.com,8105872194,"NO: 12 ifesowapo estate , akobo, ojurin, ibadan",omolara abdulganiyu,8052235070
+49,U19CS1036,"AYODELE, JOSEPH BABALOLA",Male,B.Sc Computer Science,Ekiti,Ise Orun,ayodelebabalolajoseph@gmail.com,8068917355,"block72 flat 4, karu-site, Abuja.",ayodele tolulope,8035974495
+50,U19CS1037,"BABAMUSA, ELSALEM JOSHUA",Male,B.Sc Computer Science,Niger,Chanchaga,saleemmoses1016@gmail.com,9021538305,Kano state Hotoro,mimi babamusa,8061355992
+51,U19CS1038,"JIBRIN, ABDULRAZAK IBN",Male,B.Sc Computer Science,FCT,Gwagwalada,abdulrazakjib@gmail.com,9078769721,"No. B4 Extension, Opp. Glo Mast, Chibiri, Kuje, FCT",Jibrin Ibn Jibrin,8039616007
+52,U19CS1042,"BENJAMIN, PIPKONG WABIDA",Male,B.Sc Computer Science,Gombe,Billiri,pipkong.pipben@gmail.com,9065856086,"New Liji, Gombe State.",Minshuk Benjamin,8160836330
+53,U19CS1043,"THOMAS, JESSE",Male,B.Sc Computer Science,Borno,Askira-Uba,thomasjesse4770@gmail.com,9030529188,"BIU, BORNO STATE",JERRY THOMAS,7064950022
+54,U19CS1044,"OCHIMANA, CONFIDENCE",Male,B.Sc Computer Science,Kogi,Ofu,confidenceochimana2018@gmail.com,8120530797,before new polics station kabayi maraba nassarawa state,Godswill ochimana,8068141460
+55,U19CS1045,"ISIAKA, MUBARAK",Male,B.Sc Computer Science,Plateau,Wase,i.emkhayy@gmail.com,8149236844,"Room 6, Block 88 Bori Camp Barracks, Porth Harcourt.",Isiaka Usman,8130308701
+56,U19CS1046,"MUSA, BASHIR OLANREWAJU",Male,B.Sc Computer Science,Kogi,Okehi,thegladtidings15@gmail.com,9032618938,"NO. 310, AWOSANYA STREET, ITASANI, OGUN STATE",MUSA ABDULWAJUD,8143450953
+57,U19CS1047,"SULEIMAN, USMAN",Male,B.Sc Computer Science,Kaduna,Sabon Gari,redmshelia@yahoo.com,9036205009,Hayin Ojo Sabon Gari Zaria,Jibril Usman,8149184711
+58,U19CS1049,"MOHAMMED, HADIZA",Female,B.Sc Computer Science,Kaduna,Sabon Gari,mohammedhardeeza@gmail.com,7013788322,barewa college junction,Ibrahim mohammed,7013788322
+59,U19CS1050,"MUSA, AMINU",Male,B.Sc Computer Science,Kebbi,Danko,Chonoko9702@gmail.com,9037479735,No30 kebbi road kurmin mashi,Aliyu musa,8032281830
+60,U19CS1051,"IBRAHIM, BUHARI ABUBAKAR",Male,B.Sc Computer Science,Taraba,Karim-Lamido,Abubakarbuhari017@gmail.com,8162841744,"House 36,E.C Akiwu street, 3rd Avenue,Gwarimpa Abuja",Abubakar Ibrahim Yaro,8038123368
+61,U19CS1052,"SHEKAROU, SAMSON JOSEPH",Male,B.Sc Computer Science,Nasarawa,Keana,shekarousamson@gmail.com,9093990943,"NO 38 NEW DAWAKI ROAD, UNGUWAN SARKI KADUNA",JOSEPH OLESHEYE MICHEAL,8180905635
+62,U19CS1053,"BASHIR, MUHAMMAD-BASHIR YUNUSA",Male,B.Sc Computer Science,Katsina,Funtua,muhammadbashir07@yahoo.com,8027088809,"NO. 6,DANDUTSE ROAD, FUNTUA",BASHIR INUSA,8032833989
+63,U19CS1054,"MUHAMMAD, Sanusi Daud",Male,B.Sc Computer Science,Kogi,Okene,muhammaddaud17@yahoo.com,9154566259,kuje abuja opp lea primary scool,aisha audu,8057353853
+64,U19CS1055,"HARUNA, ABDULMALIK MUHAMMAD",Male,B.Sc Computer Science,Kogi,Ankpa,princeabdulaliyu@gmail.com,9052025971,"oversea quaters, kwali abuja",FATIMA HARUNA,9065448671
+65,U19CS1056,"BOBBY, Elkanah Rege",Male,B.Sc Computer Science,Kebbi,Zuru,ebobby93@gmail.com,9079658254,Snco 1A Deport Nigerian Army,CAPT. DR Bobby,7067648472
+66,U19CS1057,"SAIDU, MONDAY AMINU",Male,B.Sc Computer Science,Kaduna,Zango-Kataf,saidumondayaminu@gmail.com,8138664767,"bypass gusau, zamfara state",Saidu Cheto,9034769271
+67,U19CS1058,"MICAH, JAMMA ADISON",Male,B.Sc Computer Science,Benue,Obi,micahadison@gmail.com,8163938221,lafia behind cityhall state,queen adison,8188111111
+68,U19CS1060,"OMEIZA, Muhammad Ghazi",Male,B.Sc Computer Science,Kogi,Adavi,kingghazee@gmail.com,8021418882,"PLOT 394, V.K ONYERI STREET, RANGE VIEW ESTATE, DAWAKI ABUJA",HAJIA MEDINA,8036553809
+69,U19CS1061,"ABUBAKAR, ISMAIL",Male,B.Sc Computer Science,Kaduna,Sabon Gari,Ismaeelabubakar6@gmail.com,8037595250,No. 12 zubairu road hayin dogo samaru,Muhammad abubakar,8067700121
+70,U19CS1062,"JOSIAH, ZECHARIAH",Male,B.Sc Computer Science,Yobe,Fuka,josiahzechariah99@gmail.com,9139972224,opposite ehindero jos plateau state,Bazam Josiah,8037378717
+71,U19CS1063,"ISHAKU, JOY UYANE",Female,B.Sc Computer Science,Kaduna,Lere,joyuyane@gmail.com,9038734977,"NO. 2 TUKURA STREET, JANRUWA KADUNA",Mr. Alex Ishaku,8162314017
+72,U19CS1064,"ABIMBOLA, Qudus Olalekan",Male,B.Sc Computer Science,Kwara,Irepodun,abimbola653@gmail.com,8149009855,141 olugbode road ado odo ogun state,Mrs abimbola,8023949557
+73,U19CS1065,"MURTALA, ABUBAKAR",Male,B.Sc Computer Science,Jigawa,Ringim,murtalaa325@gmail.com,8165860344,"No 33, Hamza Zayyad Crescent, Area F, ABU Staff Quarters. Samaru, Zaria. Nigeria.",Dr Murtala Abubakar,8067060991
+74,U19CS1066,"ABDULAWAL, SALMA ONIZE.",Female,B.Sc Computer Science,FCT,Gwagwalada,salmahafeefah@gmail.com,8037162243,No 22 Anagada Gwagwalada,Abdulawal Nyamida,7036642088
+75,U19CS1067,"AGEBA, USHAHEMBA CALEB",Male,B.Sc Computer Science,Benue,Vandeikya,calebageba9@gmail.com,8167104522,behind commissioner house kuchikau 2 karu local govt,Engr. Ageba,0701 965 0717
+76,U19CS1068,"SALEH, AMINA MOHAMMED",Female,B.Sc Computer Science,Kaduna,Sabon Gari,aminasaleh090@gmail.com,9077055046,NO. W40 DOGON BAUCHI SABON GARI ZARIA,KHADIJA LAMI SULAIMAN,8030448658
+77,U19CS1069,"SANI, Nehemiah Musa",Male,B.Sc Computer Science,Kaduna,Makarfi,saninehemiah3@gmail.com,7013197940,"Unguwan Sarki, Gwanki. Kaduna",Sani Musa,7082320177
+78,U19CS1070,"METU, ROBERT EZECHI",Male,B.Sc Computer Science,Imo,Ngor-Okpala,meturexrobert@gmail.com,7018898101,"NO.5 ECWA HAUSA STREET BORO,KADUNA STATE",METU CHRISTIAN,8038328388
+79,U19CS1073,"SHITTU, ABDULRAHMAN",Male,B.Sc Computer Science,Kaduna,Sabon Gari,abdulrahmanshittu2003@gmail.com,9067720754,no234 unguwan gwaiba samaru zaria,Shittu Ibrahim,9068627852
+80,U19CS1076,"AMEH, EMMANUEL",Male,B.Sc Computer Science,Kogi,Olamaboro,nebulla2003@gmail.com,9013038681,NO 1 KAGORO STREET GONIN GORA KADUNA STATE,AMEH RUTH,8082979705
+81,U19CS1077,"HASHIM, NAFISAT SAEED",Female,B.Sc Computer Science,Kaduna,Kaduna South,hashimnafisat2019@gmail.com,9085334153,B7 faskare makera kakuri kaduna,Munirat Saeed Hashim,8102307777
+82,U19CS1078,"LAWAL, GHALI SHARIFF",Male,B.Sc Computer Science,Kano,Kano Municipal,gslawal7@gmail.com,8026178843,no 4 mersa road unguwar kaji kaduna,muhammad shariff lawal,8038165004
+83,U19CS1080,"MUSA, ALIYU UMAR",Male,B.Sc Computer Science,Jigawa,Kazaure,umarmhaliyu@gmail.com,8106312289,1374 garammaja B,Aliyu H musa,8033837141
+84,U19CS1082,"NEHEMIAH, PHINEHAS",Male,B.Sc Computer Science,Kaduna,Kauru,phinehastech01@gmail.com,8166401345,Kwoi Jaba L.G.A Kaduna,Jeremiah Nehemiah,8166401354
+85,U19CS1083,"HARUNA, Iliya",Male,B.Sc Computer Science,Kaduna,Makarfi,harunailiya1993@gmail.com,8095536435,"Bazana 2 Tudun wada Gubuchi, Makarfi Local Government, Kaduna state.",Ado Haruna,8072622662
+86,U19CS1084,"ABDUIAZEEZ, ANATO ABDUISAMAD",Male,B.Sc Computer Science,Kogi,Okene,woaround.u@gmail.com,9081237108,Apo resettlement Abuja,Suleiman Abdulazeez,8065493849
+87,U19CS1085,"USMAN, ABDULKADIR",Male,B.Sc Computer Science,Adamawa,Toungo,uabdulkadir717@gmail.com,7037193168,"No.10 Zamani Estate,Old Karu Road, Mararaba",usman Umar toungo,8027751605
+88,U19CS1086,"SHUAIBU, HALIRU",Male,B.Sc Computer Science,Kwara,Edu,halirushuaibu2@gmail.com,8142757275,behind midland plaza maraba.,HAUWA SHUAIBU,7031654207
+89,U19CS1087,"SAAD, NASIR",Male,B.Sc Computer Science,Kaduna,Zaria,saadnasir3770@gmail.com,8037707540,NO 20 ANGUWAN DAN JINJIRI ZARIA CITY,SALIHU NASIR,8039180024
+90,U19CS1088,"SANI, ABUBAKAR SADIQ",Male,B.Sc Computer Science,Adamawa,Shelleng,Asadiq5010@gmail.com,7066365366,1 Alhaji kadiri street sunrise bustop olodi apapa lagos,Sani garba,8023590112
+91,U19CS1089,"MATTHEW, METHUSELAH",Male,B.Sc Computer Science,Kaduna,Kagarko,matthewmethuselah1@gmail.com,8026286030,"Opposite L.E.A primary School kubacha, kagarko LGA",Morondia Tanko,8080379171
+92,U19CS1090,"JOSEPH, SHESHAM ABRAHAM",Male,B.Sc Computer Science,Kaduna,Kaura,sheshamabraham@gmail.com,8112181637,Tcnn staff Quarters Bukuru,Milcah joseph,8174565866
+93,U19CS1091,"SANI, ABDULHAMID GARBA",Male,B.Sc Computer Science,Adamawa,Shelleng,Hamskid506@gmail.com,8103441975,1 Alhaji kadiri street sunrise bustop olodi apapa lagos,Sani garba,8023590112
+94,U19CS1092,"AHMADU, ABDULMUTALIB ENESI",Male,B.Sc Computer Science,Kogi,Okene,enesiahmadu@gmail.com,7067990054,"Behind Justice Otu Coumpound Ogaminana, Adavi, Kogi State",Ahmadu Zuleihat Ometere,8065342714
+95,U19CS1093,"JAMILU, IBRAHIM",Male,B.Sc Computer Science,Katsina,Funtua,ibrahimjamilu2211@gmail.com,7032686015,jabiri layin yanbokolo funtua katsina state,JAMILU MUSA,8061549162
+96,U19CS1094,"SHAGBO, CHARLES GYENOM",Male,B.Sc Computer Science,Kaduna,Kachia,shabgocharles@gmail.com,8065930266,"14A, REEVE ROAD IKOYI LOGOS",Sunday Shagbo,8023242518
+97,U19CS1096,"BAWA, DANIEL",Male,B.Sc Computer Science,Yobe,Potiskum,danielbawasolo@gmail.com,9039977839,#74 ahmadu samaru zaria,Emmanuel Bawa,9066597483
+98,U19CS1097,"DALHATU, KALTUME BELLO",Female,B.Sc Computer Science,Kaduna,Zaria,kaltumd34@gmail.com,7069376144,NO:25 marafa road gyallesu zaria kadun,asmau dalhatu,7039005037
+99,U19CS1098,"ALIH, Sheriff Ogijo",Male,B.Sc Computer Science,Kogi,Omala,sheriffalih660@gmail.com,9051981797,Ganaja New Layout Lokoja Kogi State,Nasiru Alih,8065544282
+100,U19CS1100,"YUSUF, DEUWEL JONATHAN",Male,B.Sc Computer Science,Kogi,Adavi,deuwelyusuf@yahoo.com,8112418499,no. 7 kufang close behind ITF area office miango road Jos,yusuf blessing,8069372074
+101,U19CS1101,"IBRAHIM, AHMAD SALIHU",Male,B.Sc Computer Science,Katsina,Dutsinma,ai0856567@gmail.com,9079275442,no 27 aliyu  baru road kaduna state,ibrahim aisha,8033111856
+102,U19CS1102,"BULUS, THADDEUS",Male,B.Sc Computer Science,Kaduna,Zango-Kataf,thaddy123@yahoo.com,9072774053,OPP. NEW POLICE STATION MARABA KADUNA STATE NIGERIA,BULUS JOSSY SUNDAY,8110457930
+103,U19CS1103,"IBRAHIM, SADIQ",Male,B.Sc Computer Science,Sokoto,Sokoto South,saddiquezibrahim@gmail.com,8055553892,#19 dawaki hillside abuja,sekina muhammad,8033011266
+104,U19CS1104,"SIMON, JOSHUA",Male,B.Sc Computer Science,Katsina,Danja,simonjoshua886@gmail.com,8143225508,No 1b challawa crescent Barnawa Kaduna south Kaduna state,Nancy Simon,9025362198
+105,U19CS1106,"BASHIR, MAIMUNA LAWAN",Female,B.Sc Computer Science,Kano,Dala,maimunatuliman09@gmail.com,7068342235,"No.845 muhammad bello fulani street fulani, R zaki",Bashir Lawal,8033211452
+106,U19CS1110,"SAMSON, JOSEPH",Male,B.Sc Computer Science,Taraba,Jalingo,jsamson5real@gmail.com,9126608384,"16 Jauro Jassa road, Mayo gwoi, Jalingo, Taraba State.",Aminchi Samson,8107883939
+107,U19CS1111,"IBRAHIM, FIRDAUSI",Female,B.Sc Computer Science,Borno,Hawul,ibfirdausi02@gmail.com,7067855002,"No.1(C) Road FHA, Lugbe, Abuja",Ibrahim Muhammad,7030229768
+108,U19CS1115,"ALFRED, MATHIAS TAHIRU",Male,B.Sc Computer Science,Gombe,Akko,Alfredmatino01@gmail.com,8119643670,New Nyanya opp pikolo guest house Nassarawa State,Sylvanus Alfred,8065604120
+109,U19CS1116,"JOHN, GODWIN",Male,B.Sc Computer Science,Kaduna,Kagarko,gj735273@gmail.com,8169814035,"Opp. White House, Tudun-Wada, Kagarko.",Samuel John,9133758110
+110,U19CS1117,"RABIU, UMAR FARUK",Male,B.Sc Computer Science,Zamfara,Bungudo,umarfaruk852088@gmail.com,8101852088,Phase 3 Block 413A Kubwa Abuja.,Usman Rabiu,8062242281
+111,U19CS1118,"IBRAHIM, HIDAR ALIYU",Male,B.Sc Computer Science,Nasarawa,Lafia,Ibrahimhidar521@gmail.com,8135381397,No 6 lane 6 oluyole estate ibadan,Ibrahim Abdullahad,8032955589
+112,U19CS1119,"ELACHI, Jeremiah Abba",Male,B.Sc Computer Science,Benue,Ogbadibo,jeremiahelachi234@gmail.com,8112824476,"2 Kingdom Hall Close, Ilado Badagry. Lagos",Elachi Daniel Yaro,9033250960
+113,U19CS1121,"SARKI, KYUNIZEE ABEL",Male,B.Sc Computer Science,Nasarawa,Akwanga,sarkikyuni@gmail.com,9034048122,new nyanya karu local government nasarawa state,sarki iko karatu,9083990606
+114,U19CS1122,"IBRAHIM, BEGEL ISAAC",Male,B.Sc Computer Science,Gombe,Billiri,begelisaac@gmail.com,8026907472,Shika Zaria,Namma Begel,8023581720
+115,U19CS1124,"ADEOYE, Ayomipo Oluwaloseyanu",Male,B.Sc Computer Science,Ondo,Akoko-North-West,adeoyeleonard@yahoo.com,8133235493,"D/14 Iludotun Qrts Ajowa, Akoko Ondo State",Mr. Adeoye Adeolu,8035291159
+116,U19CS1126,"ADAMU, EL-YAQUB",Male,B.Sc Computer Science,Nasarawa,Lafia,adamuelyaqub@gmail.com,7018837238,No 1 itoga street Badagry Lagos Nigeria.,Adamu ladi,8060846660
+117,U19CS1127,"NAPOLEON, NATHANIEL",Male,B.Sc Computer Science,Adamawa,Michika,nathynapoeon6@gmail.com,7044533921,"No. 2 volta street, off colorado close, ministers' hill maitama, abuja",Napoleon,8092971260
+118,U19CS1133,"SULEIMAN, MUSTAPHA",Male,B.Sc Computer Science,Niger,Bida,Fantasysulsty@gmail.com,9062367323,"House no.10 Dr Suleiman's street, chanchaga.",Salisu A. Suleiman,8134813223
+119,U19CS1134,"UMAR, ALIYU ADAMU",Male,B.Sc Computer Science,Niger,Shiroro,aliyuumar998@gmail.com,8131992782,R2 Siraj Abdulwahab Road Mando Kaduna,Zayyad Umar,7069481068
+120,U19CS2020,"IBRAHIM, SAFIYYAH ABUBAKAR",Female,B.Sc Computer Science,Kaduna,Zaria,safeeyahrimi2000@gmail.com,8169469618,"No. 12 Rimin Tsiwa, Zaria-City, Kaduna State.",Abubakar Ibrahim,8034519251
+121,U19CS2040,"AMINU, YAHAYA",Male,B.Sc Computer Science,Kaduna,Giwa,yahayaaminugw@gmail.com,8061409238,Gidan Malamin Arabi Giwa Kaduna state,sulaiman aminu,8034501069
+122,U19CS2049,"ABUBAKAR, HARUNA ABDULMALIK",Male,B.Sc Computer Science,Kaduna,Kaduna North,abubakarsd.harunasadiq@gmail.com,9068008764,No 5 school road Malali Kaduna state,Abdulkarim Haruna Abdulmalik,8174773756
+123,U19CS2056,"ADEGOKE, JAMIU OLALEKAN",Male,B.Sc Computer Science,Osun,Iwo,ajamiu46@gmail.com,9038386252,"No 79,Aba-omo street,off Nigeria wire and cable,omi-adio,ibadan",Adegoke Ibrahim,8068473579
+124,U19CS2057,"ABDULLAHI, ZAINAB MAIKANO",Female,B.Sc Computer Science,Kaduna,Giwa,zeemaikano41@gmail.com,7068908783,no 360 jae road opposite napri gate shika,Abdullahi Maikano,8035928935
+125,U19CS2077,"BABANIDA, MUHAMMADU",Male,B.Sc Computer Science,Katsina,Matazu,babangidamdj2019@yahoo.com,8145488784,MATAZU LOCAL GOVERNMENT KATSINA STATE,MUHAMMADU,8145488784
+126,U19CS3005,"musa, suleiman",Male,B.Sc Computer Science,Zamfara,Bungudo,mustygulluba4real50@gmail.com,8063544993,"ARMED FORCES COMMAND AND STAFF COLLEGE JAJI, BLOCK 32 RM 1 CSC QUARTERS",SANI MUSA,7037577444
+127,U19CS3006,"ABUBAKAR, ZAYYANU",Male,B.Sc Computer Science,Zamfara,Talata-Mafara,zayyanuabubakartma@gmail.com,8105420282,Tashar kali Area Talata-Mafara,Alh. Abubakar Dan Yaye,7038558819
+128,U21CS2001,"ALIYU, ABUBAKAR ABUBAKAR",Male,B.Sc Computer Science,Katsina,Katsina,abubakar2332001@gmail.com,9154314029,"A6 Goni Close Kabala, Kaduna",Aliyu Abubakar,8055113686
+129,U21CS2002,"AHMAD, UBAIYU AUWAL",Male,B.Sc Computer Science,Kaduna,Zaria,ubaiyuahmadauwal@gmail.com,8130512020,No 26 makarfi road tudun wada zaria,Auwal Ahmad Auwal,8065307766
+130,U21CS2004,"ADEOYE, ABDULLAHI ADETOMIWA",Male,B.Sc Computer Science,Oyo,Saki West,adeoyeabdullahi585@gmail.com,7049587950,"Alubata Compound, Oke Alafia, Saki, Oyo State",ADEOYE MUHAMMED,7057301812
+131,U21CS2005,"ABUBAKAR, ALIYU ONORUOIZA",Male,B.Sc Computer Science,FCT,Abaji,aleeyu011@gmail.com,9018579291,"No 9 Lokongoma Riverside Phase 1, Lokoja",Alh. Abubakar Mohammed Bello,8116218484
+132,U21CS2006,"EGWU, VICTOR ONYEKA",Male,B.Sc Computer Science,Anambra,Aguata,victorkachi116@gmail.com,9096293731,1 main street pz sabon gari zaria,egwu rosemary,8161824176
+133,U21CS2007,"LAWAL, MUFIDA HUNKUYI",Female,B.Sc Computer Science,Kaduna,Kudan,mufidalawal133@gmail.com,7060950388,no 8 dan kaura street samaru zaria,adamu lawal hunkuyi,8146146246
+134,U21CS2008,"ISSOUFOU, IBRAHIM LAWAN",Male,B.Sc Computer Science,Foreign,Non-Nigerian,isouibrah@gmail.com,9034027318,No 22 Samaru Zaria,Ibrahim Lawan,22790919415
+135,U21CS2009,"IDRIS, FIRDAUSI MUDASIR",Female,B.Sc Computer Science,Kaduna,Sabon Gari,firdausimudasir112@gmail.com,8034642638,NO 2 OPP QUEENS HOTEL PALLADAN,MUDASIR USMAN IDRIS,8033193957
+136,U21CS2010,"YUSUF, MUSA MUHAMMAD",Male,B.Sc Computer Science,Kaduna,Sabon Gari,yusufmusah757@gmail.comcom,8069408034,JAMA'A ZANGON SHANU SAMARU ZARIA,MUSA MUHAMMAD,8134605277
+137,U21CS2011,"UMAR, AHMED",Male,B.Sc Computer Science,Sokoto,Wurno,ahmedumars0082@gmail.com,7064733726,NO 2 NAMORIKI ROAD SAMARU ZARIA,ABDULMUTALIF UMAR,8032690689
+138,U21CS2012,"MOMOHJIMOH, HASHIDU",Male,B.Sc Computer Science,Kogi,Okene,concatinator@gmail.com,8107652774,NO 24F IDOJI STREET OKENE LGA KOGI STATE,SALAMI NASIRU MOMOHJIMOH,8066743635
+139,U21CS2013,"BALARABE, NURA",Male,B.Sc Computer Science,Kaduna,Ikara,bnuramusa1998@gmail.com,8101794645,No. 150 Anguwar Magajin Gari Ikara,Abubakar Bala Musa,8105410157
+140,U21CS2014,"MUSA, SADIQ",Male,B.Sc Computer Science,Kaduna,Zaria,sadiqmusaarewa2018@gmail.com,8167178678,No 6 Low-Cost Zaria,Musa Umar,8062264161
+141,U21CS2015,"HARISU, AMINU ABUBAKAR",Male,B.Sc Computer Science,Jigawa,Kiyawa,aminuharisukyw@gmail.com,8035763448,"Kofar Fada, Kiyawa",Sani Harisu,8034582185
+142,U21CS2016,"MUHAMMAD, MUSLIM AMINU",Male,B.Sc Computer Science,Kaduna,Lere,muslimmaminu@gmail.com,8026800932,"UNGUWAN MAKAMA SAMINAKA, KADUNA STATE",MUHAMMAD AMINU MUHAMMAD,8035880337
+143,U21CS2017,"SAIDU, USMAN",Male,B.Sc Computer Science,Kaduna,Zaria,usaidu2001@gmail.com,7044704126,NO 6 KUSFA ZARIA CITY,MR USMAN,8135136384
+144,U21CS2018,"AHMED, ABDULHAKEEM ALIYU",Male,B.Sc Computer Science,Kaduna,Sabon Gari,ahmedaliyuabdulhakeem47@gmail.com,8144699751,No 17 kwangila Auguwan sarki,Khalifa Ahmed Aliyu,0706 158 9389
+145,U21CS2019,"BELLO, MARYAM",Female,B.Sc Computer Science,Kaduna,Kubau,bellomaryam20@yopmail.com,8028628696,No 1 fada street anchau t/kalafia,bello abubakar,8084665582
+146,U21CS2020,"SHEHU, MUSTAPHA",Male,B.Sc Computer Science,Kaduna,Zaria,mustaphashehu02@gmail.com,7068390334,NO 37 JIBGA ROAD TUDUN WADA ZARIA,Hassana mustapha shehu,8056502056
+147,U21CS2021,"MAKAMA, NANA-ASMA'U",Female,B.Sc Computer Science,Bauchi,Toro,makananaasmau2020@gmail.com,8167180687,zangon shanu jammaa zaria,Makama B.S,8035998902
+148,U21CS2022,"MUSTAPHA, ABDULKADIR SAIDU",Male,B.Sc Computer Science,Kaduna,Sabon Gari,abdulsmustapha@gmail.com,9063671890,No. 10 Basawa tudun muntsira,Abdulqudus Saidu Mustapha,7069541456
+149,U21CS2024,"ABUBAKAR, AISHA MALAMI",Female,B.Sc Computer Science,Kaduna,Zaria,aishamalami001@gmail.com,8142549739,NO 57 ANG IYA ZARIA CITY,IBRAHIM ABUBAKAR,7033868359
+150,U21CS2026,"ABDULKAREEM, NAZIR ONIMISI",Male,B.Sc Computer Science,Kogi,Okene,thinknheer03@gmail.com,9061599420,"TT5 Zaria road, by Abeokuta Street kaduna",Hanifa Abdulkareem,7036621025
+151,U21CS2027,"IDRIS, HAUWA YABAGI",Female,B.Sc Computer Science,Niger,Bida,hauwayabagi7@googlemail.com,7066235102,"GBANGARA AREA, BIDA",Ibrahim Idris,9063933739
+152,U21CS2028,"SHEHU, ASMA'U ADAMU",Female,B.Sc Computer Science,Bauchi,Jama'are,shehuasmau23@gmail.com,8066068676,NO 5 HAYIN DOGO SAMARU ZARIA,SALMA IDRIS,7063619588
+153,U21CS2029,"DALHAT, JA'AFAR",Male,B.Sc Computer Science,Kaduna,Zaria,Jaafardalhat747@gmail.com,8162227510,No.60 Rimin Kambari Zaria City,Dalhatu Musa,8061143393
+154,U21CS2030,"MUSA, ABDULSALAM",Male,B.Sc Computer Science,Kaduna,Kubau,abdulsalammusa466@gmail.com,7014801044,Magami Anchau Kubau LGA,Nuhu Abdulmumin,8067713134
+155,U21CS2032,"IBRAHIM, ALHAJI MOHAMMED",Male,B.Sc Computer Science,Niger,Lavum,ibrahimalhajimohammed2021@gmail.com,7068761994,"CHANCHAGA VIA NCRI, BADEGI, NIGER STATE",IBRAHIM ALHAJI,8163274215
+156,U21CS2033,"ALIYU, AISHA AHMAD",Female,B.Sc Computer Science,Katsina,Malumfashi,aishaaliyu092@gmail.com,8144650769,"No. 250 Tanko mai kara street, Samaru",Aliyu Ahmad,8033147211
+157,U21CS2034,"HAMZA, ABDULMALIK",Male,B.Sc Computer Science,Kaduna,Sabon Gari,abdulmalikhamza136@gmail.com,7085596180,LAYIN MAI BULAL HAYIN DOGO,HAMZA ABDULRAHMAN,8084226134
+158,U21CS2035,"MUSA, YAKUBU YAKUBU",Male,B.Sc Computer Science,Kaduna,Ikara,yakubumusayakubu17@gmail.com,8149378973,No. 76 ANG/TURAKI IKARA,Musa Yakubu Ikara,8068086275
+159,U21CS2036,"ABUBAKAR, UMAR FARUK",Male,B.Sc Computer Science,Zamfara,Gusau,abubakar1962@gmail.com,8033176547,"No. 27B Hanwa Low-Coast, Zaria",khadijat Abubakar,8033176545
+160,U21CS2037,"Ayuba, Habibu",Male,B.Sc Computer Science,Katsina,Funtua,habibuayubafta@gmail.com,9063148233,"G/Tasaulawa, Funtua",Ayuba Yusuf,8069614724
+161,U21CS2038,"MACCIDO, AMINA MOUKTAR",Female,B.Sc Computer Science,Kaduna,Zaria,aminamaccido0@gmail.com,8112455210,ang/kaya behind water works,mouktar mouktar maccido,8030617319
+162,U21CS2039,"SHEHU, MUSA SARKI",Male,B.Sc Computer Science,Kaduna,Sabon Gari,musasarkee@gmail.com,8106355799,No 10 Basawa Road Hayin Dogo Samaru Zaria,Alhaji Shehu Musa,8065619956
+163,U21CS2040,"TUKUR, ZAINAB MUHAMMAD",Female,B.Sc Computer Science,Kaduna,Makarfi,zainatukurmuhammad@gmail.com,8030973747,KV 181 IGABI ROAD ROAD TUDUN WADA KADUNA,NAFISA TUKUR MUHAMMAD,7038567684
+164,U21CS2041,"OROKPO, EDWIN",Male,B.Sc Computer Science,Benue,Obi,edwinmurphy081@gmail.com,8102696538,"Itakpa Ito, Before the police Station, Obi LGA, Benue State",EBERE GEORGE OROKPO,7034716852
+165,U21CS2042,"LAWAL, IBRAHIM",Male,B.Sc Computer Science,Kaduna,Giwa,ibrhimlawal7424@gmail.com,8058217424,MARABAN YAKAWADA,SADISU LAWAL,8077572606
+166,U21CS2046,"AMINU, MUHAMMAD ABDULLAHI",Male,B.Sc Computer Science,Katsina,Malumfashi,maameenu02@gmail.com,8039516676,NO4 OFF SARKIN FULANI JAFARU KADUNA,Muhammad Aminu Umar,8024243383
+167,U21CS2047,"HASSAN, FAISAL MUHAMMAD",Male,B.Sc Computer Science,Kaduna,Sabon Gari,Faisalsimba123@gmail.com,8168725335,No 7 Habibu Road samaru zaria,Hassan Muhammad,7030070703
+168,U21CS2048,"YA'U, FATIMA YAKUBU",Female,B.Sc Computer Science,Kaduna,Zaria,yaufatimayakubu@gmail.com,7066742846,"Dogarawa, Sabon Gari, Zaria, Kaduna State.",Ya'u Yakubu,8036204869
+169,U21CS2049,"AHMED, MUHAMMAD",Male,B.Sc Computer Science,Kaduna,Sabon Gari,hamdatprince@gmail.com,8137632602,113 sapale road,Hajara musa,8065667640
+170,U21CS2050,"ABDULHAMEED, AISHA",Female,B.Sc Computer Science,Kaduna,Sabon Gari,abdulhameedaisha5@gmail.com,7047442389,NO 33 AHMADU SARKIN HUDA STREET SAMARU,ABDULHAMEED LIMAN GAMBO,8034956468
+171,U21CS2051,"MUHAMMAD, ABUBAKAR",Male,B.Sc Computer Science,Kaduna,Sabon Gari,muhdsaddeek@gmail.com,8109060323,NO 59 SARKIN PAWA ROAD SAMARU ZARIA,MUHAMMAD  NAZIFI,9067077406
+172,U21CS2052,"ASMA'U, MUHAMMAD",Female,B.Sc Computer Science,Kebbi,Zuru,asmaumuhammad138@gmail.com,9025843656,"SS1, 2b, Railway Quarters Sabon Gari Zaria",Muhammad Abdullahi,8069549033
+173,U21CS2053,"SHEHU, ABDULKARIM",Male,B.Sc Computer Science,Kano,Kabo,abdulkarimshehu770@gmail.com,7031068977,"No 63  Galma Road, Marmara, Sabon Gari Zaria",Shehu Rabiu,8063232706
+174,U21CS2055,"SALEH, ZAHARADDEEN",Male,B.Sc Computer Science,Kaduna,Igabi,aljajwy2011@gmail.com,8037041178,"NO. V3 DALLATU ROAD, JAJI - KADUNA",ABDURRAHMAN ZAHARADDEEN,8060680535
+175,U21CS2056,"SHAFIU, SULEIMAN",Male,B.Sc Computer Science,Kaduna,Sabon Gari,shafiusuleiman80@gmail.com,9080831029,"No, 26 Sakadadi Unguwan Sarki Tsoho",Shafiu Musa,9080831029
+176,U21CS2057,"ADAMU, YUSUF",Male,B.Sc Computer Science,Borno,Maiduguri,ogayusuf43@gmail.com,7036342210,"NO. 1 KUBAU STREET NAGOYI, ZARIA",Prof. Haruna Mohammad muktar,8037024387
+177,U21CS2058,"ISAH, ABUBAKAR",Male,B.Sc Computer Science,Kaduna,Sabon Gari,isaabubakar940@gmail.com,7045501812,samaru,sani isah,8066153192
+178,U21CS2060,"AHMAD, SULEIMAN JAAFAR",Male,B.Sc Computer Science,Kaduna,Zaria,sulaimanahmadjafar@gmail.com,8141902628,NO 24 MADAKA ZARIA CITY,URWA AHMAD JAFAR,8068952005
+179,U21CS2061,"ALIYU, AHMAD TANIMU",Male,B.Sc Computer Science,Kano,Garko,ahmadaliyutaneem@gmail.com,8132109503,N0 26 Habibu Road Samaru Zaria,Aliyu Tanimu,8038722692
+180,U21CS2062,"ABDULRAHIM, UMAR",Male,B.Sc Computer Science,Katsina,Malumfashi,ummarabdurrahim@gmail.com,8102954892,"No 28 unguwan kaya Zaria, No 28 unguwan kaya Zaria",Ahmad abdulrahim,7081472913
+181,U21CS2063,"MUHAMMAD, FATIMA USMAN",Female,B.Sc Computer Science,Kaduna,Sabon Gari,mhamida01@gmail.com,8065592726,No. 36 Magajin Gari Street Hayin Dogo Samaru,Engr. Muhammad Usman,8031920602
+182,U21CS2064,"MUHAMMAD, AMINA GAMAWA",Female,B.Sc Computer Science,Bauchi,Gamawa,maminagamawa@gmail.com,8162562006,No. 32 Turaki Street Zangon Shanu Zaria,Muhammad Abdullahi Walid,7066459601
+183,U19CS1004,"JOSEPH, JOY ADI",Female,B.Sc Computer Science,Taraba,Ussa,joystarlight246@gmail.com,8093264216,Nigeria airsapce MGT.com,Joseph Adi,7030757333
+184,U19CS1039,"AUDU, ALEX FRIDAY",Male,B.Sc Computer Science,Borno,Chibok,Alexaudu9@gmail.com,8122241204,"No 5, CMD road, Ikosi Ketu, Lagos",Jerry Audu,8064235309
+185,U19CS1048,"AHMED, BENJAMIN OJONIMI",Male,B.Sc Computer Science,Kogi,Olamaboro,Ojonimiahmed@gmail.com,8161857073,Area f number 18,Benjamin Ahmed,8034501176
+186,U19CS1081,"BUKAR, PAUL JUNIOR",Male,B.Sc Computer Science,Borno,Kwaya-Kusar,paulhena84@gmail.com,8038788290,ABASCO HOUSE ZANGO ZARIA KADUNA STATE NIGERIA,paul hena,8053646818
+187,U19CS1095,"AGABA, DANIEL EWAUOCHE",Male,B.Sc Computer Science,FCT,Municipal,Danieljoy22july@gmail.com,7036878020,No.7 Banyo Close Dalet Army Barrack kawo Kaduna,Moses Ejembi AGABA,9117565851
+188,U19CS1107,"SHEHU, SALIHI AHMAD",Male,B.Sc Computer Science,Kano,Gwale,mubaraksalihi2002@gmail.com,9092956222,"648 Yarakwa-B Darmanawa, Kano",Eng Shehu Ahmad,9036401931
+189,U19CS1125,"ABDULLAH, KHALEEL DANLITI",Male,B.Sc Computer Science,Gombe,Kaltungo,timz4real@gmail.com,8137417678,"NO.1 ALVES STREET SURULERE, LAGOS STATE",BALARABE SULEIMAN,8039106816
+190,U19CS1128,"LAWAL, Faisal",Male,B.Sc Computer Science,Kogi,Okene,faisaham199@gmail.com,8167191902,"no 27 lafiya street, okene, kogi",Lawal Hamisu,8106931300
+191,U19CS1130,"ABUBAKAR, ABBAS HARUNA",Male,B.Sc Computer Science,Jigawa,Hadejia,abbasabubakar05@gmail.com,8075441636,"Plot 9, Lome Street U/Rimi, Kaduna",Haruna Usman,8061600410
+192,U21CS1001,"MUSA, RIDWAN ITOPA",Male,B.Sc Computer Science,Kogi,Okehi,musaridwanitopa@gmail.com,8140798806,PRD/IHYO/12UKOWA,Mrs Saratu Ohunene,7069674142
+193,U21CS1002,"AUDU, NOAH NOMSU",Male,B.Sc Computer Science,Kaduna,Jaba,audunomsunoah@gmail.com,8025163932,"SABON BIRIN, ALONG BOMO ROAD ZARIA KADUNA",AUDU JAMAN,7036823699
+194,U21CS1003,"YUSUF, PRECIOUS MONDAY",Male,B.Sc Computer Science,Kogi,Okehi,yprecious526@gmail.com,7045110540,No 62. Opposite sacred heart college Kaaba kogi state,Yusuf vivian,8115403017
+195,U21CS1005,"YUSUF, PAUL",Male,B.Sc Computer Science,Kaduna,Lere,paulyusuf2000@gmail.com,7086752412,"Seventh-Day Adventist Church Unguwan Bawa, Hayin Tanki, Saminaka, Lere Local Government, Kaduna State",Silas Tambaya,7066606249
+196,U21CS1006,"ABDULLAHI, MUBARAK",Male,B.Sc Computer Science,Kogi,Yagba-East,mubarakola16@gmail.com,8122591957,"Poly Farm Road, Narayi, Kaduna State",Abullahi Ajayi,8035904537
+197,U21CS1007,"MUSTAPHA, MUJAHEED IDRIS",Male,B.Sc Computer Science,Gombe,Akko,mustaphamujaheed8@gmail.com,7036437914,"Kwahas lahir Mangu, Jos Plateau",Mustapha Idris Abubakar,8132221167
+198,U21CS1008,"YUSUF, MUJAHID DAN-AUDI",Male,B.Sc Computer Science,Bauchi,Toro,mujahidyusuf101@gmail.com,9056647084,NO 21 IVORY COAST MALALI FEDERAL LOW COST MALALI KADUNA,YUSUF DAN-AUDI,8033323044
+199,U21CS1010,"IBRAHIM, SULAIMAN",Male,B.Sc Computer Science,Kano,Rogo,sulaimanibrahim022@gmail.com,7049425544,fulatan islamiyya,NAZIFI IBRAHIM FULATAN,7069779822
+200,U21CS1011,"BUHARI, ABDURRAHMAN SHEHU",Male,B.Sc Computer Science,Kaduna,Zaria,ashehubuhari5@gmail.com,9049931076,"129, Anguwan danmadami, Zaria City",Yahaya Hussaini,8037662051
+201,U21CS1012,"YUSUF, SULAIMAN",Male,B.Sc Computer Science,Zamfara,Kaura-Namoda,scallolli7@gmail.com,8092327981,"23,Ayeni Street",Nasir Yusuf,9083194053
+202,U21CS1013,"MGBE, EMMANUEL TOCHUKWU",Male,B.Sc Computer Science,Enugu,Oji-River,mgbeemmanuel49@gmail.com,8144292464,No 77 Iya Road samaru zaria,Mgbe Chigozie,7063319677
+203,U21CS1014,"SANI, MUSTAPHA",Male,B.Sc Computer Science,Kaduna,Sabon Gari,mustaphasani3233@gmail.com,8103418255,"BBC STREET HAYIN OJO SABON GARI, ZARIA",IBRAHIM ABUBAKAR,8145056667
+204,U21CS1015,"ABDULAZEEZ, OLAWALE BOLAKALE",Male,B.Sc Computer Science,Osun,Ifelodun,imobalaze@gmail.com,9160634282,"NO. 470 OPPOSITE POLICE CLINIC, NEWLAYOUT, LOKOJA, KOGI STATE",ABDULAZEEZ OLAIDE,8103004290
+205,U21CS1016,"OLABISI, ABDUSSHAKUR OLAREWAJU",Male,B.Sc Computer Science,Oyo,Orelope,olabisiabdusshakur01@gmail.com,8109525536,Plot 23 Ltv street journalist estate arepo ogun state,Olabisi hamdallah,8087341557
+206,U21CS1017,"MINKA'IL, YUSUF BABANGIDA",Male,B.Sc Computer Science,Kano,Tudun Wada,nbyusuf8585@gmail.com,7034560916,SABON GARI TUDUN WADA DANKADAI,minkail BABANGIDA,8085855815
+207,U21CS1018,"ABDULHAKEEM, ABDULRAHMAN",Male,B.Sc Computer Science,Osun,Ede,abdulrahmanabdulhakeem952@gmail.com,9050373412,NO 3 RAFI CLOSE LAFIA ROAD KAKURI KADUNA,MUHAMMED ABDULHAKEEM,8034501826
+208,U21CS1019,"ALIYU, ADO GARBA",Male,B.Sc Computer Science,Kano,Tarauni,aliyuado200@gmail.com,8163770194,kano tarauni yar'akwa 180,ado garba,8068306458
+209,U21CS1020,"ABDULQUADRI, SOFEEYAT ALABA",Female,B.Sc Computer Science,Kwara,Ilorin West,sofeeyahabdulquadir010@gmail.com,9068175478,"OLA FATHER STREET, OFF ASA-DAM ROAD, ILORIN, KWARA STATE",ABDULQADRI SULAYMAN TAYE,7039184445
+210,U21CS1021,"Hassan, Ibrahim",Male,B.Sc Computer Science,Yobe,Fuka,ibrahimhassan3094@gmail.com,9069649874,NO. 13 SHEIKH GUMI CLOSE OFF GHANA ROAD MALALI KADUNA,HASSAN IBRAHIM,8039680025
+211,U21CS1022,"IBRAHIM, ABDULMALIK",Male,B.Sc Computer Science,Kaduna,Zaria,abdulmalikibrahim2404@gmail.com,8146242656,No 28 creek road PHC,Ibrahim usman,8033701540
+212,U21CS1023,"SANI, ABDURRAHMAN ISHAQ",Male,B.Sc Computer Science,Kaduna,Sabon Gari,ibnsanee256@gmail.com,9034077896,"No 2, Sardauna Street, Dogarawa New Extension, Sabon Gari Zaria",Muhammad Sani Ishaq,8033374958
+213,U21CS1024,"AUWAL, MARYAM JIBO",Female,B.Sc Computer Science,Katsina,Danja,auwalmaryamjibo@gmail.com,8065673452,YY 11 GULBI ROAD TUDUN NUPAWA KADUNA,SAMIRA AUWAL JIBO,8036655783
+214,U21CS1025,"CHRISTOPHER, JACOB GALADIMA",Male,B.Sc Computer Science,Kaduna,Jaba,christophjacob4@gmail.com,8056926417,Mararaba Nasarawa State,Christopher Galadima,7057948978
+215,U21CS1026,"GODWIN, RAYMOND IZUCHUKWU",Male,B.Sc Computer Science,Anambra,Orumba South,godwinraymond99@gmail.com,8167508779,"WATER BOARD QUARTERS TUDUN WADA, JOS PLATEAU STATE",MR AND MRS GODWIN ANYAOHA,8033828856
+216,U21CS1028,"ORJI, PRAISE SOMTOCHUKWU",Female,B.Sc Computer Science,Abia,Bende,orjipraise8@gmail.com,9078885786,ZF53 NILEST QUATERS SAMARU ZARIA,Mr. FERDINAND,8036478885
+217,U21CS1030,"ABUBAKAR, ABDULJALIL",Male,B.Sc Computer Science,Kaduna,Kaduna North,abduljalilabubakar20@gmail.com,9043493932,B13 IRA ROAD TUDUN NUPAWA KADUNA,ABDULJALIL ABUBAKAR,8030773375
+218,U21CS1031,"KAWAI, USAMAH SULAIMAN",Male,B.Sc Computer Science,Kano,Bunkure,usamahkarwai2@gmail.com,9077928681,"AREA A, NO 5, ETSU NUPE LANE, A.B.U ZARIA",ABDULLAHI SULAIMAN KARWAI,8183550936
+219,U21CS1032,"AZI, KUSHEISH HOSEA",Male,B.Sc Computer Science,Plateau,Jos-North,Kusheishazi@gmail.com,9049683277,"No 86a silver jubilee, Abu Zaria. Kaduna state",Joseph Azi,8030593736
+220,U21CS1034,"BZIGU, JOSEPH CHINDA",Male,B.Sc Computer Science,Borno,Askira-Uba,josephzico888@gmail.com,9038750167,6 IJERO LANE APAPA ROAD EBUTE METTA WEST LAGOS,MRS BZIGU HAJARA,8069812250
+221,U21CS1035,"NASIR, ABDURRAHMAN UMAR",Male,B.Sc Computer Science,Kaduna,Zaria,abdurrahmannasir2001@gmail.com,8029345477,NO. 7 MUAZU STREET TUDUN JUKUN ZARIA,ABDULMALIK NASIR,9036332076
+222,U21CS1036,"NANBOL, JOSEPH NANNIM",Male,B.Sc Computer Science,Plateau,Langtang North,nanboljoseph2@gmail.com,8064112510,"RCC Church, Dadur, Langtang North, Plateau State",Mr. Nanbol Dashe,8052385571
+223,U21CS1037,"ACHI, DESTINY MATTHEW",Male,B.Sc Computer Science,Kaduna,Kauru,destinymathew0@gmail.com,8102515145,29 sarki street kamazou kaduna state,Rejoice Matthew,8094744166
+224,U21CS1038,"MUHAMMAD, MUSTAPHA",Male,B.Sc Computer Science,Kaduna,Sabon Gari,mustaphamoh195@gmail.com,9025766137,No. 9 FGGC Staff Quarters,Ahmad Muhammad,8032119021
+225,U21CS1039,"ABDULQADIR, BASHEER IBRAHIM",Male,B.Sc Computer Science,Kwara,Ilorin West,bashmakana@gmail.com,8133194064,Jabata compound Ilorin,ABDULQADIR IBRAHIM,7042672045
+226,U21CS1040,"KOLOBE, ANNUR MUHAMMAD",Male,B.Sc Computer Science,Borno,Bama,annurkolobe003@gmail.com,9064586883,"Area 1, Section 2, Block 23, Flat 3, Kano Street,  Garki-Abuja",Dr. Mustafa Kolobe,8055120979
+227,U21CS1041,"ABUBAKAR, SAFEEYAH AMEERAH",Female,B.Sc Computer Science,Niger,Chanchaga,safmeerah04@gmail.com,8063646698,"PLOT 98, GBAIKO LAYOUT, MINNA, NIGER STATE",SHEHU ABUBAKAR SADIQ,8037863378
+228,U21CS1042,"SHEHU, IKRAM GADA",Female,B.Sc Computer Science,Sokoto,Gada,ikramsgada@gmail.com,8128269506,No 18 Gada's Street Fillin mallawa,Amina Shehu Gada,7068003047
+229,U21CS1043,"AHMED, LOIS ONOZASI",Female,B.Sc Computer Science,Kogi,Okene,sunshinelois02@gmail.com,9132326060,behind Ebogogo Market Adavi Kogi State,Ahmed Janet,8134875902
+230,U21CS1044,"HAMZA, ABDULAZEEZ NGGADA",Male,B.Sc Computer Science,Adamawa,Gombi,hamzaabdulazeez25@gmail.com,9034792011,"Shagari phaseII, Yola Town, Adamawa State",Sadia Hamza Sanusi,7037252404
+231,U21CS1045,"YAHAYA, ABDULRAZAQ",Male,B.Sc Computer Science,Niger,Suleja,Yozovehe1@gmail.com,9151007889,No. 23 dabara street kwamba suleja Niger state,Yahaya Muhammad Kabir,0703 301 5821
+232,U21CS1046,"IDRIS, MUAZU SULAIMAN",Male,B.Sc Computer Science,Jigawa,Hadejia,muazusulaiman2003@gmail.com,7062868425,NO 3 OPPOSITE HAYATUL ISLAM ZANGON SHANU ZARIA,PROF. SULAIMAN IDRIS,8033325969
+233,U21CS1047,"ALIYU, MUHAMMED",Male,B.Sc Computer Science,Kaduna,Kudan,youngprogrammer2002@gmail.com,8169865029,NO 1 WAKILI CLOSE KINKINAU GRA KADUNA,ALIYU HARUNA,8033574771
+234,U21CS1048,"OYEWOLE, EMMANUEL OYENIYI",Male,B.Sc Computer Science,Oyo,Ibadan-North-East,emmanueloyewole309@gmail.com,7080817416,"Plot 124, Lokogoma Basic Estate Abuja FCT",John Oyewole Oyekanmi,7032131575
+235,U21CS1049,"IDRIS, SHEIKH IBRAHIM",Male,B.Sc Computer Science,Kogi,Ijumu,codeshehu@gmail.com,7069594273,no8 bayajida crescent area A site2 ABU ZARIA,PROF idris ola sulieman,8183836514
+236,U21CS1051,"MOHAMMED, USMAN UBA",Male,B.Sc Computer Science,Nasarawa,Lafia,usman4525@gmail.com,8108565559,Federal Low cost Jos,Uba Mohammed,8033536626
+237,U21CS1053,"ABBA, ABDUL-KADIR KHALIFA",Male,B.Sc Computer Science,Nasarawa,Lafia,theprincekhalifa@gmail.com,7060645306,NO 31 UNITY SCHOOL HAYIN MALLAM ZANGON SHANU ZARIA,KHADIJAT ALIYU IBRAHIM,7067762664
+238,U21CS1054,"JUMARE, ABDULAHI",Male,B.Sc Computer Science,Kaduna,Zaria,jumareabdul005@gmail.com,9161080764,58 SALMANDUNA ZARIA CITY,JUMARE IBRAHIM,8108147189
+239,U21CS1055,"BASSEY, EMMANUEL UWEM",Male,B.Sc Computer Science,Akwa Ibom,Ikot-Ekpene,uwembassey43@gmail.com,8104912901,Bakin Dogo Samaru Zaria,Honour Emmanuel Bassey,7087037625
+240,U21CS1056,"AHMAD, IDRIS",Male,B.Sc Computer Science,Kaduna,Zaria,idrisahmaddari706@gmail.com,9017380982,No. 49 Limancin kona zaria city,Sani Ismail,8133836163
+241,U21CS1057,"ADAMU, MUHAMMED RABIU",Male,B.Sc Computer Science,Kogi,Dekina,muhammedrabiuadamu@gmail.com,7064497481,sabon gari maraba Nasarawa State,Adamu Shaibu,8078269084
+242,U21CS1058,"AHMAD, SALISU",Male,B.Sc Computer Science,Niger,Bida,ahmadsalisu2011@gmail.com,9039609533,"L25 KAKURI ROAD, KAWO, KADUNA",SALISU ABUBAKAR,7036667023
+243,U21CS1059,"WOJE, ISAAC TISAN",Male,B.Sc Computer Science,Kaduna,Kaura,wojetisan2020@gmail.com,9150197223,No p9 Aliyu Makama road GRA Banarwa kaduna state,Clement woje,0803 375 6114
+244,U21CS1061,"ABDULRAFIU, ZAINAB",Female,B.Sc Computer Science,Kaduna,Zaria,abdulrafiuzainab01@gmail.com,8068681825,"14 Salami Street, Angwan Godo Sabon Gari, KD",Muhammad Abdulrafiu,8163611160
+245,U21CS1063,"SABIU, HUSSAINI",Male,B.Sc Computer Science,Kaduna,Igabi,mansirhussaini85@gmail.com,9018300237,Turunku Sabuwa,Sabi'u Ibrahim,9018300237
+246,U21CS1064,"IBRAHIM, KHALEEL",Male,B.Sc Computer Science,Kaduna,Kaduna North,khalilibee@gmail.com,7037096348,"NO17, School Road, Rafin-Guza, Kaduna",Ibrahim Abubakar,8061129845
+247,U21CS1066,"UTHMAN, ALJANNAT ADEOLA",Female,B.Sc Computer Science,Lagos,Lagos-Island,jannatuae9@gmail.com,8139745452,"Block H14, Dr. Fika drive. Woodhill Estate, Kuje. Abuja.",Uthman Ubaydullah Ayodeji,8179086090
+248,U21CS1067,"ALHUSSAIN, BILAL",Male,B.Sc Computer Science,Kaduna,Soba,bilalalhussain5@gmail.com,9079525356,"NO. 2 ABUBAKAR STREET, SOBA",ABUBAKAR ALHUSSAIN,8028571050
+249,U21CS1068,"AMINU, IBRAHIM",Male,B.Sc Computer Science,Kaduna,Kaduna South,aminuibrahimthefifth@gmail.com,7033662993,NT 19 hali road sabon gari t/wada kaduna,Musa Aminu,8132937458
+250,U21CS1069,"IBRAHIM, ALIYU",Male,B.Sc Computer Science,Kaduna,Kaduna South,contactaliyuibrahim@gmail.com,7089052732,"No 5, School Road, Unguan Muazu, Kaduna",Nuhu Ibrahim,7061151982
+251,U21CS1070,"HABIB, ABDULRAHMAN",Male,B.Sc Computer Science,Kaduna,Zaria,abdulhabeeb002@gmail.com,8147763868,"No D98 Jamnab Estate, F01 Kubwa Abuja",HABIB LAWAL,8037017282
+252,U21CS1071,"GYABBI, CHUMNOM",Male,B.Sc Computer Science,Kaduna,Jaba,chumnomgyabbi04@gmail.com,9019350992,No.26 Barrister street Graceland Zaria.,Yakubu Nathan,9070723799
+253,U21CS1072,"ALKALI, ALAMIN MUHAMMAD",Male,B.Sc Computer Science,Yobe,Potiskum,alkalialamin007@gmail.com,9132025509,No4 Estu road ungwar rimi kaduna,Mahmud Umar,7054549554
+254,U21CS1074,"YARI, DESMOND BALA",Male,B.Sc Computer Science,Kaduna,Kauru,desmondyari19@gmail.com,9013234580,NO 11 JUMARE STREET NEW EXTENTION SAMARU ZARIA,BALA YARI,9038002262
+255,U21CS1075,"HUSAINI, ZAID",Male,B.Sc Computer Science,Kaduna,Ikara,zaidhusaini35@gmail.com,8024435492,"No 10 Makaranta road Gyallesu, Zaria, Kaduna state",Husaini Abdu,8034528589
+256,U21CS1076,"IRHIAWO, SAADIQ OYAIGHUA",Male,B.Sc Computer Science,Edo,Etsako-West,irhiawosadiq@gmail.com,8022993257,"19 Goodwill street, off college road, Ekenwan road, Benin City.",Mr Irhiawo Ameerah,8106562939
+257,U21CS1077,"JOSEPH, FRIDAY ASUKU",Male,B.Sc Computer Science,Kogi,Adavi,joefryo170@gmail.com,8151056563,BEHIND ECSS OGAMINANA KOGI STATE,ISAH ELIZABETH,8063805255
+258,U21CS1078,"ATTO, ATTAHIRU KHALIFA",Male,B.Sc Computer Science,Sokoto,Wurno,attahiratto@gmail.com,9122073199,"No 28 Madaki Ali Close Unguwan Dosa, kaduna",Muhammad Tukur Atto,8037043929
+259,U21CS1079,"IORTYANGE, EMMANUEL AONDEHEMBA",Male,B.Sc Computer Science,Benue,Gwer-East,e.a.iortyange@gmail.com,7065297337,"POWER PLANT ROAD, AGWA EXTENSION, NEW KUDENDA LAYOUT, KADUNA",SUNDAY IORTYANGE,8037053160
+260,U21CS1080,"IDRIS, AL-AMIN MOHAMMAD",Male,B.Sc Computer Science,Kano,Kumbotso,travistraver989@gmail.com,9067086851,"16, N-TSG-MAKAMA, NAIBAWA, ZARIA ROAD, KANO.",YUSRA IDRIS,8069413002
+261,U21CS1081,"ISMA'IL, USMAN SULEIMAN",Male,B.Sc Computer Science,Sokoto,Sokoto South,thelastelectro@gmail.com,8142771916,17 SARKI ABDULKARIM MADARKACI,MAL. ISMAIL,8142771916
+262,U21CS1082,"MAHMUD, MUHAMMAD USMAN",Male,B.Sc Computer Science,Kaduna,Zaria,muhammadmusman391@gmail.com,9079233409,"No. 56 anguwan zakara kaura Zaria city, Zaria kaduna state",Maryam Mahmud,8034389024
+263,U21CS1083,"ABDULLATEEF, FATIHA YUSUF",Female,B.Sc Computer Science,Kwara,Oyun,abdullateeffatihayusuf@gmail.com,8124102905,"5 Turuku Road, Gaskiya Layout",Alamin Adebanjo,9076711422
+264,U21CS1084,"ISAIAH, ENOCH",Male,B.Sc Computer Science,Kaduna,Zango-Kataf,enochisaiah02@gmail.com,8083821996,JUSHIN WAJE SABON GARI ZARIA,ISAIAH PEACE,8083821996
+265,U21CS1085,"IDRIS, ZAINAB USMAN",Female,B.Sc Computer Science,Zamfara,Tsafe,zainabus12345@gmail.com,8127333379,"No_4 river close,G.R.A Zaria, kaduna state",Usman idris,8050597973
+266,U21CS1086,"ALIYU, IBRAHIM ABUBAKAR",Male,B.Sc Computer Science,Kogi,Okene,ibaliyu17402@gmail.com,8029615827,AZ 35 Abubakar sadiq road unguwar muazu new extension kaduna,Abubakar Aliyu,8029615827
+267,U21CS1089,"BADAMASI, IDRIS",Male,B.Sc Computer Science,Kaduna,Giwa,www.badamasidris1015@gmail.com,7043329201,no 18 area B.Z A.B.U quarters samaru zaria,ZAINAB BADAMASI,9031214913
+268,U21CS1090,"IBRAHIM, UMAR FAROUQ",Male,B.Sc Computer Science,Katsina,Daura,umarmubay360@gmail.com,8080805799,"4B JAJI ROAD, MALALI, KADUNA",ABDULLAHI IBRAHIM,8034468118
+269,U21CS1092,"ABUBAKAR, SADIQ ONORUOYIZA",Male,B.Sc Computer Science,Kogi,Okene,myozigi@gmail.com,8160323358,"No 13, Kaduna Jos Road, Jos",Abdullahi Abdulrazaq,8033905912
+270,U21CS1093,"ABDULWAHEED, USMAN",Male,B.Sc Computer Science,Kaduna,Zaria,abdulwaheedusman2000@gmail.com,8168675901,No. 161 Limanci Kona Zaria city kaduna State,Usman Abdulwaheed,8036282678
+271,U21CS1094,"JIMOH, ABDULRASHEED OLAREWAJU",Male,B.Sc Computer Science,Kwara,Offa,olarewajujimoh48@gmail.com,9025236298,NO. 37 KARASANA ROAD OPP. GSS GWAGWA ABUJA,JIMOH MUIDEEN,8037450138
+272,U21CS1095,"HAMZA, ABDULMAJID",Male,B.Sc Computer Science,Kaduna,Ikara,hamzaabdulmajid@yandex.com,8165064101,Wambai Ikara Local Government Kaduna State.,hamza,8165064101
+273,U21CS1096,"ONYUMA, JOHN",Male,B.Sc Computer Science,Benue,Ogbadibo,johnonyumaudu@gmail.com,9060314292,"OPPOSITE OLACHAGBAHA TOWN HALL, OLACHAGBAHA OTUKPA, OGBADIBO LGA, BENUE STATE.",ONYUMA GABRIEL,8155803247
+274,U21CS1097,"ADEKEYE, FATHIA OLAMIDE",Female,B.Sc Computer Science,Kwara,Ifelodun,adekeyefathia@gmail.com,9036026649,"Elesie Compound, Owode-Ofaro, Ifelodun LGA, Kw/st.",Tajudeen Adekeye,8030866996
+275,U21CS1098,"SALIHU, ABUBAKAR SADIQ",Male,B.Sc Computer Science,Kogi,Kogi,abubakarsalihu188@yahoo.com,8152553826,LOKOJA kogi state,salihu hussaini,8033528218
+276,U21CS1100,"TUKUR, IBRAHIM NUHU",Male,B.Sc Computer Science,Kaduna,Zaria,ibrahimnutu2@gmail.com,8069942222,"4/3 Babajo Street, Gaskia Layout Zaria.",Saratu Iliya Ibrahim,8069942222
+277,U21CS1101,"ONUORAH, CLINTON NNAMDI",Male,B.Sc Computer Science,Enugu,Isi Uzo,onuorahclinton1@gmail.com,8110190891,"No. 56 millionaires quaters, byazhin kubwa Abuja",Felix Onuorah,9093130312
+278,U21CS1102,"ADEYEMO, DAVID ADEDAYO",Male,B.Sc Computer Science,Oyo,Ibadan-South West,adexdave5@gmail.com,9029427709,"21,IRORUNOLUWA ESTATE NEW FELELE IBADAN",ADEYEMO FLORENCE AINA,8130880331
+279,U21CS1103,"SHENGE, MARK ORYIMAN",Male,B.Sc Computer Science,Taraba,Gassol,markoryiman@gmail.com,9014145380,"GASSOL, TARABA STATE",SHENGE JOSEPH,9013905675
+280,U21CS1105,"ABDULHAMID, ABDULLAHI",Male,B.Sc Computer Science,Kaduna,Zaria,abdillahiabdulhamid900@gmail.com,7065433664,"no 3 abdurrahman street, banzazzau zaria",abdulhamid muhammad salis,8037475829
+281,U21CS1106,"ABDULRAHMON, ABUBAKAR",Male,B.Sc Computer Science,Kebbi,Argungu,abubakarabdulrahmon674@gmail.com,7085729792,Argungu,Abdulquadri Abdulrahmon,8025638401
+282,U21CS1107,"AGIENDE, EMMANUEL USHIE",Male,B.Sc Computer Science,Cross River,Obudu,agiendeemmanuel8@gmail.com,8119945102,36 ukwel Obudu rd obudu cross river state.,Agiende Sunday Ubenaye,7057790298
+283,U21CS1108,"ADAMU, LUKMAN JIBRIN",Male,B.Sc Computer Science,Kaduna,Lere,lukmanjbadam@gmail.com,9042651239,"NO. 16 ANGWAN SARKIN YANMA JURAN KARI, KADUNA STATE",DAUDA ADAMU,7037091980
+284,U21CS1109,"SAIDU, AHMAD",Male,B.Sc Computer Science,Taraba,Karim-Lamido,ahmadsaidu764@gmail.com,9076445763,N0 21 SAMARU STREET NAGOYI ZARIA,DANLAMI SAIDU,8028404198
+285,U21CS1110,"ALFRED, EHIKOOWOICHO MATTHEW",Male,B.Sc Computer Science,Benue,Ogbadibo,ehistrings2019@gmail.com,9065522730,"No. 16 Ekong Street, Behind Fathers Delight, Graceland, Zaria",Mr Alfred O. Onuh,8034261806
+286,U21CS1111,"JIMOH, ABDULAZEEZ OLADIPUPO",Male,B.Sc Computer Science,Ogun,Odeda,abdulazeezojimoh@gmail.com,8141284556,"33, Ilupeju Street, Alabata Road, Camp, Abeokuta, Ogun State.",Ahmed Jimoh,8034365233
+287,U21CS1112,"ABIINA, MARVELLOUS TOLULOPE",Male,B.Sc Computer Science,Osun,Boripe,abiinamarvelloustolulope@gmail.com,8168506619,"Jeun Road,Masaka,Karu L.G.A Nassarawa State Nigeria",Abiina Opeyemi Simeon,8035665420
+288,U21CS1113,"RABIU, ABDULLAHI",Male,B.Sc Computer Science,Katsina,Funtua,abdullahirabiu6884@gmail.com,8143688404,No.68 kokami road Funtua Katsina State,Abdulrahman Rabiu,9030378734
+289,U21CS1114,"YAKUBU, KHALID",Male,B.Sc Computer Science,Bauchi,Ningi,02blackghost@gmail.com,9160209930,"NO 26, SECOND GATE, DADIN KOWA, JOS",MARYAM YAKUBU IBRAHIM,8131358741
+290,U21CS1115,"ABDULRAHMAN, HABEEB ADEWALE",Male,B.Sc Computer Science,Kwara,Irepodun,habeebabdul383@gmail.com,8122064512,"30, BORNO WAY BY WUILLOUGHBY EBUTE-META, LAGOS","MR. AND MRS,. ABDULRAHMAN",8028498285
+291,U21CS1116,"YUSUF, MUBARAK",Male,B.Sc Computer Science,Kano,Bebeji,hassanmuby1116@gmail.com,9161499252,10 Unguwan gwaiba off-railway Samaru zaria,Yusuf Hassan Muhammad,8135944611
+292,U21CS1117,"UMARU, SANI MOHAMMED",Male,B.Sc Computer Science,Kano,Tarauni,umarusani17@gmail.com,7068299693,"pipeline anguwa uku tarauni, kano state",Sofiya Umaru,7060520990
+293,U21CS1118,"IWE, LUCKY JOHN",Male,B.Sc Computer Science,Edo,Owan West,luckyiwejohn2610@gmail.com,8185301754,"Block 17, Room 9 Basawa Baracks Zaria",Iwe Lucky,8185301754
+294,U21CS1119,"ADESHINA, JESUTOYIN JOHN",Male,B.Sc Computer Science,Ekiti,Ijero,oluwapamilerinjohn403@gmail.com,9011024416,"Graceland, Emanto",Dr. Tunde J. Adeshina,8184877234
+295,U21CS1120,"IBRAHIM, MAIMUNA",Female,B.Sc Computer Science,Kano,Doguwa,ibrahimmaimuna250@gmail.com gmai.com,8139905441,"Area A Plateau Crescent No.5 A.B.U Quarters, Samaru Zaria",Prof. N. D. G ibrahim,8069589888
+296,U21CS1121,"MUHAMMAD, NURA ISAH",Male,B.Sc Computer Science,Kano,Gwale,Numuhammad66@gmail.com,8128905055,No. 4 Mikiya Street Kano,Fatima Bature,8033917388
+297,U21CS1123,"OJEPA, HASSAN",Male,B.Sc Computer Science,Kaduna,Sabon Gari,cyclonehassan@gmail.com,7044083934,NO 21 BASAWA ROAD HAYIN DOGO SAMARU ZARIA,MRS PAUL ROSE,8050738586
+298,U21CS1124,"ADAMU, JIBRIN AHMED",Male,B.Sc Computer Science,Bauchi,Ningi,Jibrinamir27@gmail.com,9094135496,"NO. 4 TUDUN SARKI, AREA BZ, AHMADU BELLO UNIVERSITY ZARIA, KADUNA STATE.",PROF ADAMU AHMED,8037217007
+299,U21CS1125,"SADA, LAURATU NAIYA",Female,B.Sc Computer Science,Kano,Dambatta,sadalaurat4321@gmail.com,9035799980,NO. 24 GASKIYA BABA AHMAD ROAD ZARIA,PROF IBRAHIM NA'IYA SADA,8037037953
+300,U21CS1126,"ACHUJA, ISAH RASHEEDAT",Female,B.Sc Computer Science,Kogi,Ajaokuta,achuja9@gmail.com,8160716914,"Flat 9A, Road E22, Kaduna Estate, Ajaokuta, Kogi State",Mariam Isah,8036451473
+301,U21CS1127,"IKOMKEH, HEGEN JAMES",Male,B.Sc Computer Science,Benue,Ushongo,hegenikomkeh@gmail.com,7063761533,"16 dan amokachi lane, mkd,benue state.",NoK.Ephraim Ikomkeh,8162515611
+302,U21CS1128,"ABDULLAHI, ABDULLAWI",Male,B.Sc Computer Science,Kaduna,Sabon Gari,abdullahilawi27@gmail.com,8028283212,AREA BZ NO 137 ABU ZARIA,ABDULLAHI HABIB,8028283212
+303,U21CS1129,"MUHAMMAD, MUSTAPHA OHIARE",Male,B.Sc Computer Science,Kogi,Adavi,mustyog669@gmail.com,8112823930,"No 10 Umouzu Close, Garki 2, Abuja",Hajia Safiya Ohiare,7036155888
+304,U21CS1130,"BASSEY, BRIGHT UNWANA",Male,B.Sc Computer Science,Akwa Ibom,Mkpae-Enin,brightunwana47@gmail.com,7017712978,Bd6 BARNAWA CLOSE NARAYI KADUNA,MR UWEM BASSEY,8082059970
+305,U21CS1132,"MUHAMMAD, ABDULLAHI MUSA",Male,B.Sc Computer Science,Kebbi,Gwandu,abdulloz500@gmail.com,9066576269,NO. 50 GANGARE JOS NORTH LOCAL GOVERNMENT,MUHAMMAD SANI,8036361268
+306,U21CS1133,"ABDULAZIZ, MUJAHID HALLIRU",Male,B.Sc Computer Science,Kaduna,Lere,mujaheedsdantala@gmail.com,8067637383,87/88 Ahmadu Bello way Saminaka,Najib Halliru,8085429550
+307,U21CS1134,"BALARABE, BASHIR Z",Male,B.Sc Computer Science,Kaduna,Ikara,magajiilya230@yopmail.com,9037329202,Hayin Magina Ikara LGA,Mal. Zulhairu Balarabe,7038778950
+308,U21CS1135,"MUHAMMED, ISAH BASHIR",Male,B.Sc Computer Science,Jigawa,Guri,mb.ba.isah@gmail.com,9025829388,"11 Sanni Street Ilasamaja, Lagos",Muhammed Ahmed Dauda,8087279234
+309,U21CS1136,"USMAN, SADEQ BELLO",Male,B.Sc Computer Science,Kano,Tarauni,sadequsmanbello07@gmail.com,8107310793,Hotoro Danmarke Behind Depot,Suraj Usman Bello,8067693131
+310,U21CS1137,"ALIYU, SUHAIL SAID",Male,B.Sc Computer Science,Kaduna,Zaria,suhailllaliyusaid@gmail.com,8108401147,NO 166 KWARBAI ZARIA CITY,ALIYU SAID MACCIDO,8054535659
+311,U21CS1138,"PETER, BANES SOSSOU",Male,B.Sc Computer Science,Adamawa,Mayo Belwa,banespeter@gmail.com,9068513639,BCGA BEHIND ROYAL HOSPITAL GOMBE STATE,SUNDAY SOSSOU PETER,9078727619
+312,U21CS1139,"IRO, ABDULHAKEEM IBRAHIM",Male,B.Sc Computer Science,Katsina,Dutsinma,ah09059452564@gmail.com,9059452564,"NO 6, MUHAMMAD BASHIR ROAD KATSINA  ESTATE, KAFE DISTRICT , LIFE CAMP. ABUJA",MUHAMMAD IBRAHIM IRO,8036931916
+313,U21CS1140,"KOUGH, BENJAMIN TERUNGWA",Male,B.Sc Computer Science,Benue,Konshisha,kouhhbenjamin@gmail.com,8161870779,"Flat 11, block 20, kuje close  area 10 garki Abuja",Kough ThankGod,0809 770 1968
+314,U21CS1141,"ABDUL-AZEEZ, AHMED",Male,B.Sc Computer Science,Niger,Suleja,ahmedabdulazeez212@gmail.com,9070830873,"Blk 2, FLT B, Abubakar Aliyu Gombe street, citec villas Gwarimpa, Abuja",Mrs Muibat AbdulAzeez,8037175156
+315,U21CS1142,"ABDULHAMID, SHUKRAH MORENIKEJI",Female,B.Sc Computer Science,Kwara,Ilorin West,morenikejioloyede0@gmail.com,8064020369,Balogun ajikobi compound omoda area ilorin,Aboderin oladeji sodiq,8160482911
+316,U21CS1143,"ABUBAKAR, ABDULMALIK DATTI",Male,B.Sc Computer Science,Niger,Bosso,abdulabduldatti0020@gmail.com,9023208585,New York bosso minna niger state,Abubakar Ahmed Datti,9133818251
+317,U21CS1144,"ADEDIGBA, JAMIU ADENIYI",Male,B.Sc Computer Science,Kwara,Ilorin West,jamiuadeniyi11@gmail.com,8102920700,Angwa Rukuba jos plateau state,Adedigba Ridwan,8163957981
+318,U21CS1145,"ABDULHAMID, FATIMA",Female,B.Sc Computer Science,Kaduna,Sabon Gari,fatimaabdulhamid2022@gmail.com,7026527294,"NO,108 ALIN BASAWA ROAD SAMARU ZARIA",ABDUL HAMID LAWAL,8035932184
+319,U21CS1146,"HABIB, KHALID AHMED",Male,B.Sc Computer Science,Kano,Kano Municipal,yunkhal4@gmail.com,8109964806,"39 Hara Foam Street, Nasarawa",Faisal Habib,7011072236
+320,U21CS1147,"NASIR, SULEIMAN LADAN",Male,B.Sc Computer Science,Zamfara,Bungudo,Ibnsuleymanladan@gmail.com,8162723731,No 42 Mora Road tudun wada zaria,Nasir Ladan,8169653699
+321,U21CS1149,"IDRIS, HASSAN",Male,B.Sc Computer Science,Borno,Biu,hassanidrees077@gmail.com,9060709417,no 2a college road gidan jirwa kurmin mashi,haruna samaila,8035362272
+322,U21CS1150,"ABDULLAHI, ABDULLAHI ISA",Male,B.Sc Computer Science,Kaduna,Kaduna North,abdullahiisa010@gmail.com,8052199490,"NO10, Sullubawa Road, Ungwan Sarki, Kaduna",Isa Abdullahi,8023248853
+323,U21CS2003,"AHMAD, ABDULAZIZ ABDUL",Male,B.Sc Computer Science,Kano,Nasarawa,abdulazizahmadabdul@gmail.com,8144028030,No 443 Badawa new layout unguwar gaya,Aliyu Ahmed Abdul,8037451465
+324,U21CS2044,"YUSUF, AHMAD",Male,B.Sc Computer Science,Katsina,Kafur,sarautahh11@gmail.com,8038635459,NO 57 LAYIN MAIBULALA HAYIN DOGO SAMARU ZARIA,NASIR MUHAMMED JAFAR,8036110632
+325,U21CS2045,"MAHMOUD, FATIMA HAMMAN",Female,B.Sc Computer Science,Adamawa,Mayo Belwa,fatimamahmoud731@gmail.com,9099774487,no 57 abdul latan crescent area f,ibrahim mahmoud hamman,7062417928
+326,U21CS2059,"ABDULLAHI, ABDULRASHID",Male,B.Sc Computer Science,Katsina,Malumfashi,abdullahi090@gmail.com,8160831121,SARKIN PAWA ROAD SAMARU ZARIA,SULEIMAN  ABDULLAHI,8061186388
+327,U21CS2065,"MUHAMMAD, SANI",Male,B.Sc Computer Science,Kaduna,Sabon Gari,muhammadysani007@gmail.com,7060448999,No. 4 alin basawa road samaru zaria,Yakubu Sani,8033032704
+328,U21CS2066,"ISAH, MARYAM ASSADEEQAH",Female,B.Sc Computer Science,Kwara,Ilorin West,Maryamassadeeqahisah@gmail.com,7037947347,CBQ 133 Flat2  New Building Bori Camp Port Harcourt,Rasheedah Shuaib,9037011504
+329,U23CS2001,"ILIYASU, TAUHEED LAWAL",Male,B.Sc Computer Science,Sokoto,Dange-Shuni,Tauheediliyasu350@gmail.com,8032191208,BEHIND ADMIN COLLEGE SOKOTO STATE,AISHA ILIYASU,9073321374
+330,U23CS2002,"SHUAIBU, FATIMA HASSAN",Female,B.Sc Computer Science,Yobe,Fuka,shuaibuf197@gmail.com,7063250743,NO 14 B mudibbo street Area A,MUHAMMAD SHUAIBU HASSAN,7045672016
+331,U23CS2003,"BALARABE, UMAR",Male,B.Sc Computer Science,Kaduna,Kauru,balarabeomar09@gmail.com,8142497109,NO 1 RD W KADAURE EXTENSION LAYOUT KADUNA,AMINA BALARABE,8063242116
+332,U23CS2004,"SAGIR, MUNNIR",Male,B.Sc Computer Science,Kaduna,Birnin-Gwari,muniralhazawa@yahoo.com,8159022334,NO 13 WAKE ROAD,USMAN SAGIR,8111981204
+333,U23CS2005,"BALA, JAMILU",Male,B.Sc Computer Science,Kaduna,Ikara,Jaameilbala@gmail.com,9063951797,"ALLAHGABA,  IKARA LOCAL GOVERNMENT",Bala isah,9029721671
+334,U23CS2006,"BASHIR, AMINU",Male,B.Sc Computer Science,Katsina,Katsina,alaminbashir11@gmail.com,9066260959,NO 4 GALDIMA ROAD BADARAWA KADUNA,BASHIR MAGAJI,7031114929
+335,U23CS2007,"AMINU, AISHA",Female,B.Sc Computer Science,Kaduna,Sabon Gari,ayshatameenu38@gmail.com,8130596938,Sabon Gari Anguwan Jaba,Aminu Mohammed,8088806160
+336,U23CS2008,"ABDULHAMID, YAHYA JUMARE",Male,B.Sc Computer Science,Kaduna,Zaria,yajumare06@gmail.com,9078229270,NO 140 KWARBAI ZARIA CITY,UMAR ABDULHAMID JUMARE,8063988508
+337,U23CS2009,"UMAR, ABDULWAHEED FAROUK",Male,B.Sc Computer Science,Kaduna,Zaria,uabdul2020@gmail.com,8109048064,No 13A shehu Idris street tudun jukun zaria,Abdulrahman abdul,8037033128
+338,U23CS2010,"MOHAMMED, ZANNA BILKISU",Female,B.Sc Computer Science,Borno,Monguno,bilzzan2001@gmail.com,8189153589,"Nnpc quarters Area 11 Garki,Abuja.",Aisha Ahmed Mohammed,8033914440
+339,U23CS2011,"ADAMU, ABDULHAMID",Male,B.Sc Computer Science,Adamawa,Yola,abdulhamidadamu1378@gmail.com,8101220640,"No2 IBBI Street shagari phase one yola town,Adamawa state",Muhammad Babangida abba,9035505810
+340,U23CS2012,"AHMAD, SA'ADIYA ABDULLAHI",Female,B.Sc Computer Science,Kaduna,Zaria,halimatusaabs@gmail.com,7067491589,"NO 44 ANG ZARIA, ZARIA CITY",AHMAD ABDULLAHI,8024121774
+341,U23CS2013,"IBRAHIM, AMANATULLAHI SHEHU",Male,B.Sc Computer Science,Kogi,Ankpa,ibrahimamanatullahi@gmail.com,9017772204,L15 Zango street makera Kaduna,Shehu Ibrahim Adejo,8064466049
+342,U23CS2014,"BAMBALE, HABIBA NASIRU",Female,B.Sc Computer Science,Kaduna,Zaria,bambalehabiba@gmail.com,8159782414,75 kofar fada Zaria city,Nasiru Mijinyawa Bambale,8036006526
+343,U23CS2015,"MUSTAPHA, ABUBAKAR",Male,B.Sc Computer Science,Kaduna,Zaria,abubakarzurmi2003@yopmail.com,7083803694,NO 11 BABA HUDU STREET T JUKUN ZARIA,ABDULLAHI MUSTAPHA,8034775920
+344,U23CS2016,"DAHIRU, KAMALUDDEEN IBRAHIM",Male,B.Sc Computer Science,Plateau,Kanam,kdi73.net@gmail.com,9030606473,"No.5 Turaki Street, behind old motor park, Dengi, Kanam LGA, Plateau State",Salma Nuhu,9078523971
+345,U23CS2017,"MUSA, HUSSAINI KIDANDAN",Male,B.Sc Computer Science,Kaduna,Giwa,musa4kidandan@gmail.com,8105566166,Hayin Madaki Shika,Ramatu Musa,7066707602
+346,U23CS2018,"MOHAMMED, ABUBAKAR SADIQ",Male,B.Sc Computer Science,Niger,Chanchaga,abubakarsadiqm183@gmail.com,9077683153,NO 16 ODOUYE QUARTERS MINNA NIGER STATE,MUSA ABDULKADIR,7053504573
+347,U23CS2019,"ZAKARIYA, ALIYU ISHAQ",Male,B.Sc Computer Science,Kaduna,Sabon Gari,aliyuzakariyaishaq@gmail.com,7065245612,8 MABO STREET HAYIN OJO SABON GARI,YAHAYA ZAKARIYYA,7065448360
+348,U23CS2021,"GANIYU, SEFIAT",Female,B.Sc Computer Science,Kwara,Ilorin West,ganiyusefiat2022@gmail.com,9039717418,"NO.5 ILE APABIEKUN,GANMO",GANIYU ALIMAT,8134855852
+349,U23CS2022,"MUAZU, JAMILA",Female,B.Sc Computer Science,Kaduna,Zaria,jamilam003@yopmail.com,8061302563,No 87 Anguwan Dan Madami,Halima Ahmad Abdullahi,8129027408
+350,U23CS2023,"USMAN, DEDAH MIGANA",Male,B.Sc Computer Science,Kaduna,Kubau,usmandeda@gmail.com,8034412257,SABON LAYI ANCHAU TAKALAFIYA,KYAWA USMAN,7035609150
+351,U23CS2024,"YUSUF, AHMAD ZAKARI",Male,B.Sc Computer Science,Katsina,Bindawa,yazakari111@gmail.com,8139695074,"Hanwa lowcost, kwangila zaria",Fahira mohammed,8062242430
+352,U23CS2025,"ADAMU, ABDURRAZAK HASSAN",Male,B.Sc Computer Science,Gombe,Yamltu/Deba,adamu2020@yopmail.com,2.34814E+12,yamltu/deba gombe state nigeria,mr adamu,8136303397
+353,U23CS2026,"ABDULLAHI, BASHIR MUHAMMED",Male,B.Sc Computer Science,Sokoto,Sokoto North,Abdullahibasheer7@gmail.com,8066156740,"9,Akorounfayo street,Mile12,Lagos",ABDULLAHI ISA,8036835438
+354,U23CS2027,"HUSSAIN, FARUK SHAZHIN",Male,B.Sc Computer Science,FCT,Kuje,ummarfarukhussain@gmail.com,8165617318,"PHASE 3, KUBWA, FCT-ABUJA",ABDULLAH HUSSAIN,8035908925
+355,U23CS2029,"IBRAHIM, SULEIMAN TANKO",Male,B.Sc Computer Science,Kaduna,Zaria,ibrahimtankosuleiman@gmail.com,7033229935,"NO 7 ANGUWAN DANGOMA OFF GASKIYA ROAD TUDUN JUKUN, ZARIA",IBRAHIM TANKO,7033229935
+356,U23CS2030,"HABIB, KHADIJA ABDULKADIR",Female,B.Sc Computer Science,Kaduna,Zaria,khadiza.abdulkadir2k@gmail.com,9037662347,kofar fada Zaria city,Habib Abdulkadir,8035382703
+357,U23CS2031,"HAMZA, SAFIYA",Female,B.Sc Computer Science,Zamfara,Gusau,hamzasafeeyah281@gmail.com,9034072458,"No. 2 PermSec Dodo Street Mortgage Area Gusau, Zamfara State",Dr. Hamza Mohammed,8038718673
+358,U23CS2032,"ABDULMALIK, HALIMATU SADIYA",Female,B.Sc Computer Science,Niger,Paikoro,abdulmalikhalimatu614@gmail.com,7044989096,No 5 Opposite Central Mosque,ABDULMALIK AWWAL,7042366929
+359,U23CS2033,"ALIYU, IMRANA",Male,B.Sc Computer Science,Kaduna,Kudan,imranajr150@gmail.com,9066713358,"NO 17 SANI SAMBO STREET GASKIYA LAY-OUT, ZARIA",MUHAMMAD ALIYU,7082430470
+360,U23CS2034,"BASHIR, IBRAHIM ISHAQ",Male,B.Sc Computer Science,Kaduna,Giwa,ishaqbashiribrahim@gmail.com,9069098667,No. 2 Group Captain Aliyu Muhammad,Bashir Isaq,8028411437
+361,U23CS2035,"ISHAQ, UMAR FARUK",Male,B.Sc Computer Science,Jigawa,Gumel,01ishaqumarfaruk@gmail.com,8129579680,"No, 59 dandambo Road samaru zaria",Ishaq Umar Faruk,8032867546
+362,U23CS2036,"LAWAL, KAMALUDEEN IDRIS",Male,B.Sc Computer Science,Zamfara,Gusau,klawalidris@gmail.com,9066198828,UNGUWAR GWAZA AREA GUSAU,LAWAL IDRIS,8030425973
+363,U23CS2037,"IBRAHIM, USAMA",Male,B.Sc Computer Science,Kaduna,Sabon Gari,usamaibrahim737@gmail.com,8131081089,No. 107 Galadima Road Samaru Zaria,Umar Alhassan,8032136809
+364,U23CS2038,"IBRAHIM, FATIMA SHEHU",Female,B.Sc Computer Science,Nasarawa,Lafia,fatimaibrahimshehu@gmail.com,8140265246,ANGUWAN KAYA ZARIA,IBRAHIM SHEHU,7030985334
+365,U23CS2039,"YUSUF, AMINA",Female,B.Sc Computer Science,Kaduna,Sabon Gari,yusuf2023@yopmail.com,8125938193,"No.102 Galadima Road, Samaru, Zaria",Saratu Balarabe,8032884628
+366,U23CS2040,"ISMAIL, ZAINAB IBRAHIM",Female,B.Sc Computer Science,Kano,Kano Municipal,look4zainabibrahim@gmail.com,8036568976,No 15 kundila housing estate kano,Binta Ismail,8033614085
+367,U23CS2041,"MUHAMMAD, RILWAN ABDULLAHI",Male,B.Sc Computer Science,Kaduna,Sabon Gari,rilwanmuhammad2023@gmail.com,7037037340,NO 129 GALADIMA ROAD SAMARU ZARIA,RABI MOHAMMED,7038354687
+368,U23CS2042,"ABDULLAHI, HAFSAT",Female,B.Sc Computer Science,Katsina,Rimi,abdullahihafsat1189@gmail.com,8135271224,"45, DUMARE STREET LAGOS ISLAND, LAGOS STATE",ABDULLAHI MUHAMMAD NAFI'U,9025257550
+369,U23CS2043,"MUHAMMAD, MUBARAK",Male,B.Sc Computer Science,Kaduna,Zaria,mubarakmahd42@gmail.com,8164301834,No 46 anguwan iya zaria city,Mujahid Muhammad,9030590720
+370,U23CS2044,"NASIR, SAFIYYA MUHAMMAD",Female,B.Sc Computer Science,Kaduna,Zaria,swaphnarh@gmail.com,9035090872,NO 235 KWARBAI ZARIA,NASIRU BABA ADAMU,7032677359
+371,U23CS2045,"USAMAH, SUMAYYA IMAM",Female,B.Sc Computer Science,Kaduna,Zaria,yahayaadammarafa@gmail.com,9068780474,No. 112 unguwan amaru zaria city,yahaya adam,7067955274
+372,U23CS2047,"SA'IDU, SALISU",Male,B.Sc Computer Science,Kaduna,Lere,ssaidu400@gmail.com,9039292099,"Makwalla, Sigau, Lere LGA",Alhaji Saidu Sarkin Noma,8032557175
+373,U23CS2048,"SABO, FAHAD",Male,B.Sc Computer Science,Kaduna,Lere,sabofahad3@gmail.com,8083512366,GIDAN DUTEE SAMINAKA LERE LOCAL GOVERNMENT KADUNA STATE,MUSTAPHA SABO,8124440465
+374,U23CS2049,"AMINU, ABDULRAHMAN",Male,B.Sc Computer Science,Kaduna,Zaria,araminuyusuf@gmail.com,8065666467,"NO 59 ANGUWAN DANMADAMI, ZARIA CITY",JIBRIL AMINU,7030785287
+375,U23CS2050,"ASHAFA, HABIBA",Female,B.Sc Computer Science,Kaduna,Zaria,habibaashafa2@gmail.com,8061693555,"22 Albarkawa, Zaria",Sa'adatu Ashafa,8164315434
+376,U23CS2051,"AHMAD, MUSA KALAMULLAH",Male,B.Sc Computer Science,Kaduna,Sabon Gari,terminalcreeds@gmail.com,8102466270,No 36 hanwa new extension zaria,Abdulazeez sani,8037142572
+377,U23CS2052,"IDRISS, OUSSAMA AHMAT",Male,B.Sc Computer Science,Abia,Aba North,oussamaahmat57@gmail.com,9163740796,NITT near Plladan,Ahmad Idriss,23566220099
+378,U23CS2053,"ABDULLAHI, AUWAL ADAM",Male,B.Sc Computer Science,Kano,Takai,auwalabdullahiadam23@gmail.com,8037147932,TAKAI KANO,ABDULLAHI MAIKANO,8038515454
+379,U23CS2055,"NASIRU, MUHAMMAD",Male,B.Sc Computer Science,Kaduna,Sabon Gari,muhammadnasiru674@gmail.com,8101418633,no 8 danraka samaru zaria,nasiru yunusa gambo,8039716005
+380,U23CS2056,"BASHIR, SAEED",Male,B.Sc Computer Science,Kaduna,Sabon Gari,saeedbash6@gmail.com,7080056937,No.101 Alin Basawa Street Samaru,Bashir Muhammad,8062069061
+381,U23CS2057,"ABDULLAHI, IDRIS",Male,B.Sc Computer Science,Kaduna,Sabon Gari,abdullahidrees001@gmail.com,8149383735,No 12 MAGAJI GARI HAYIN DOGO SAMARU ZARIA,ABUBAKAR AHMAD ABDULLAHI,9030087152
+382,U23CS2063,"HUSSAIN, ZAINAB",Female,B.Sc Computer Science,Kaduna,Sabon Gari,zainabhussain472@gmail.com,8130789395,No. 36 mamman yola road hayin dogo samaru zaria,abubakar hussaini,7036065089
+383,U23CS2065,"UMAR, SUMAIYA NJOBDI",Female,B.Sc Computer Science,Taraba,Sardauna,msnjobdi@gmail.com,9057892948,"No. 5 Madaki Adamu Street, Rigachikun Kaduna State",Umaru A Njobdi,8033498392
+384,U23CS2066,"ABDULLAHI, ZAYYAN",Male,B.Sc Computer Science,Kebbi,Jega,zayyan4abdul2020@gmail.com,8162620880,No. 107 Galadima Road Samaru Zaria,Usama Ibrahim,8131081089
